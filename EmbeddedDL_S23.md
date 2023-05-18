@@ -90,10 +90,10 @@ Carnegie Mellon University
 ## Projects
 ---
 This course engages students with group driven projects and presentations   
-[Please visit the project summary listing for Spring 2023](/EmbeddedDL_S23/projects_s23)
+[Please visit the project summary listing for Spring 2023](/embed-dl-s23/EmbeddedDL_S23/projects_s23)
 
 #### Acknowledgment
 ---
 **We acknowledge Edge Impuluse for their donations of Arduino Nano 33 BLE ML kits and the free access to their Design Studio**  
-<img src="../assets/img/edge_impulse_1.jpg" width="35%" height="35%">
+<img src="./assets/img/edge_impulse_1.jpg" width="35%" height="35%">
 
