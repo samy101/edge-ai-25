@@ -15,7 +15,7 @@ them for inferencing on microcontrollers running on the edge with power and comp
 Students are encouraged to create their own projects drawing from such fields as agriculture, 
 environment, conservation, health, manufacturing, or home automation. Students are expected to have 
 embedded systems knowledge equivalent to 18-349 (Introduction to Embedded Systems). This course is 
-cross-listed as **18-448 and 18-848C**. 
+cross-listed as **18-448 and 18-848C**.  
 
 ## Instructor
 ---
