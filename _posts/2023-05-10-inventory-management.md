@@ -15,4 +15,4 @@ Our dataset consists of 221 images that we have collected with each image having
 2. Allows us to draw multiple rectangles on the image
 3. Returns the % area of empty spaces by dividing the total area of rectangles by the area of the shelf.
 4. Renames the file to its labels for ease of import. (Also ensures that different images with the same label are not overwritten.)
-<p align="center"> <img src="/assets/img/inventory_management_2.jpg" width="100%" height="100%"> </p>
+<p align="center"> <img src="/embed-dl-s23/assets/img/inventory_management_2.jpg" width="100%" height="100%"> </p>
