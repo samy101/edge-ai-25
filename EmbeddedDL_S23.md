@@ -51,7 +51,7 @@ Electrical & Computer Engineering,<br>
 Carnegie Mellon University  <br>
 (zyoussfi@andrew.cmu.edu) </div>
 
-  <div class="column"><img width="25%" src="embed-dl-s23/assets/img/Me.jpg"></div>
+  <div class="column"><img width="25%" src="/embed-dl-s23/assets/img/Me.jpg"></div>
 </div>
 </html>
 
