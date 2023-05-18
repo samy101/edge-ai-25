@@ -51,7 +51,7 @@ Electrical & Computer Engineering,<br>
 Carnegie Mellon University  <br>
 (zyoussfi@andrew.cmu.edu) </div>
 
-  <div class="column"><img width="25%" src="./assets/img/Me.jpg"></div>
+  <div class="column"><img width="25%" src="/embed-dl-s23/assets/img/Me.jpg"></div>
 </div>
 </html>
 
@@ -95,5 +95,5 @@ This course engages students with group driven projects and presentations
 #### Acknowledgment
 ---
 **We acknowledge Edge Impuluse for their donations of Arduino Nano 33 BLE ML kits and the free access to their Design Studio**  
-<img src="./assets/img/edge_impulse_1.jpg" width="35%" height="35%">
+<img src="/embed-dl-s23/assets/img/edge_impulse_1.jpg" width="35%" height="35%">
 
