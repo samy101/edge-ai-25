@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Athletech
-subtitle: Addesh Bhargava, Varun Jain, and Rohan Paranjape
+subtitle: Adeesh Bhargava, Varun Jain, and Rohan Paranjape
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/athletech_1.jpg
 # share-img: /assets/img/path.jpg
