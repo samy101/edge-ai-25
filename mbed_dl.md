@@ -67,10 +67,10 @@ Master Program, Electrical & Computer Engineering
 Master Program, Electrical & Computer Engineering     
 (jingxua5@andrew.cmu.edu)
 * Netra Trivedi (Fall 24)     
-Master Program, Electrical & Computer Engineering
+Master Program, Electrical & Computer Engineering  
 (nptrived@andrew.cmu.edu)
 * Eion Tyacke (Fall 24)    
-Master Program, Electrical & Computer Engineering
+Master Program, Electrical & Computer Engineering  
 (etyacke@andrew.cmu.edu)
 
 ## Topics
