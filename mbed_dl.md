@@ -65,15 +65,15 @@ Master Program, Electrical & Computer Engineering
 (yenshuos@andrew.cmu.edu)                         
  
 ### Fall 24
-* Eric (Jingxuan) Wu      
-Master Program, Electrical & Computer Engineering
-(jingxua5@andrew.cmu.edu)   
-* Netra Trivedi   
-Master Program, Electrical & Computer Engineering
-(nptrived@andrew.cmu.edu)  
-* Eion Tyacke 
-Master Program, Electrical & Computer Engineering
-(etyacke@andrew.cmu.edu)
+* Eric (Jingxuan) Wu                                     
+Master Program, Electrical & Computer Engineering                         
+(jingxua5@andrew.cmu.edu)                          
+* Netra Trivedi                                 
+Master Program, Electrical & Computer Engineering                         
+(nptrived@andrew.cmu.edu)                           
+* Eion Tyacke                          
+Master Program, Electrical & Computer Engineering                         
+(etyacke@andrew.cmu.edu)                         
 
 ## Topics
 ---
