@@ -64,7 +64,7 @@ Master Program, Electrical & Computer Engineering
 Master Program, Electrical & Computer Engineering  
 (yenshuos@andrew.cmu.edu)
 * Eric (Jingxuan) Wu (Fall 24)      
-Master Program, Electrical & Computer Engineering
+Master Program, Electrical & Computer Engineering     
 (jingxua5@andrew.cmu.edu)
 * Netra Trivedi (Fall 24)     
 Master Program, Electrical & Computer Engineering
