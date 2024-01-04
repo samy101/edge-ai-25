@@ -57,18 +57,23 @@ Electrical & Computer Engineering,<br>
 ## Teaching Assistants
 ---
 ### Spring 23
-* Chao-Peng Liu (chaopenl@andrew.cmu.edu)   
-Master Program, Electrical & Computer Engineering     
-* Yen-Shuo Su (yenshuos@andrew.cmu.edu)    
-Master Program, Electrical & Computer Engineering  
+* Chao-Peng Liu    
+Master Program, Electrical & Computer Engineering
+(chaopenl@andrew.cmu.edu)    
+* Yen-Shuo Su    
+Master Program, Electrical & Computer Engineering
+(yenshuos@andrew.cmu.edu) 
  
 ### Fall 24
-* Eric (Jingxuan) Wu (jingxua5@andrew.cmu.edu)     
-Master Program, Electrical & Computer Engineering     
-* Netra Trivedi (nptrived@andrew.cmu.edu)   
-Master Program, Electrical & Computer Engineering  
-* Eion Tyacke (etyacke@andrew.cmu.edu)
-Master Program, Electrical & Computer Engineering  
+* Eric (Jingxuan) Wu      
+Master Program, Electrical & Computer Engineering
+(jingxua5@andrew.cmu.edu)   
+* Netra Trivedi   
+Master Program, Electrical & Computer Engineering
+(nptrived@andrew.cmu.edu)  
+* Eion Tyacke 
+Master Program, Electrical & Computer Engineering
+(etyacke@andrew.cmu.edu)
 
 ## Topics
 ---
