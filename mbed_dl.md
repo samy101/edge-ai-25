@@ -60,7 +60,7 @@ Carnegie Mellon University  <br>
 * Chao-Peng Liu (Spring 23)    
 Master Program, Electrical & Computer Engineering     
 (chaopenl@andrew.cmu.edu)
-* Yen-Shuo Su (Spring 23) 
+* Yen-Shuo Su (Spring 23)
 Master Program, Electrical & Computer Engineering  
 (yenshuos@andrew.cmu.edu)
 * Eric (Jingxuan) Wu (Fall 24)
