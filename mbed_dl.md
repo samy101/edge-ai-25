@@ -55,8 +55,8 @@ Electrical & Computer Engineering,<br>
 </html>
 
 ## Teaching Assistants
----      
- ### Spring 23\
+---\    
+### Spring 23\
 * Chao-Peng Liu     
 Master Program, Electrical & Computer Engineering     
 (chaopenl@andrew.cmu.edu)
