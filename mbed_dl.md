@@ -56,14 +56,14 @@ Electrical & Computer Engineering,<br>
 
 ## Teaching Assistants
 ---
-### Spring 23
+### Spring 2023
 * Chao-Peng Liu     
 Master Program, Electrical & Computer Engineering     
 (chaopenl@andrew.cmu.edu)
 * Yen-Shuo Su      
 Master Program, Electrical & Computer Engineering  
 (yenshuos@andrew.cmu.edu)
-### Fall 24
+### Fall 2024
 * Eric (Jingxuan) Wu       
 Master Program, Electrical & Computer Engineering     
 (jingxua5@andrew.cmu.edu)
