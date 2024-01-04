@@ -62,7 +62,7 @@ Master Program, Electrical & Computer Engineering
 (chaopenl@andrew.cmu.edu)
 * Yen-Shuo Su      
 Master Program, Electrical & Computer Engineering  
-(yenshuos@andrew.cmu.edu)
+(yenshuos@andrew.cmu.edu)    
 ### Fall 24
 * Eric (Jingxuan) Wu       
 Master Program, Electrical & Computer Engineering     
