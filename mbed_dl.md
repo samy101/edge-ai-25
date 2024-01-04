@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Course Information
-subtitle: Electrical & Computer Engineering, Carnegie Mellon University, Spring 2023
+title: Introduction to Embedded Deep Learning & TinyML
+subtitle: Electrical & Computer Engineering, Carnegie Mellon University
 ---
 ## Course Description  
 ---  
@@ -57,16 +57,21 @@ Carnegie Mellon University  <br>
 
 ## Teaching Assistants
 ---
-* Chao-Peng Liu    
-Master Program,  
-Electrical & Computer Engineering  
-Carnegie Mellon University    
+* Chao-Peng Liu (Spring 23)    
+Master Program, Electrical & Computer Engineering     
 (chaopenl@andrew.cmu.edu)
-* Yen-Shuo Su  
-Master Program,  
-Electrical & Computer Engineering  
-Carnegie Mellon University  
+* Yen-Shuo Su (Spring 23) 
+Master Program, Electrical & Computer Engineering  
 (yenshuos@andrew.cmu.edu)
+* Eric (Jingxuan) Wu (Fall 24)
+Master Program, Electrical & Computer Engineering
+(jingxua5@andrew.cmu.edu)
+* Netra Trivedi (Fall 24)
+Master Program, Electrical & Computer Engineering
+(nptrived@andrew.cmu.edu)
+* Eion Tyacke (Fall 24)
+Master Program, Electrical & Computer Engineering
+(etyacke@andrew.cmu.edu)
 
 ## Topics
 ---
