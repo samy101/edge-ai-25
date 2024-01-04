@@ -60,16 +60,16 @@ Carnegie Mellon University  <br>
 * Chao-Peng Liu (Spring 23)    
 Master Program, Electrical & Computer Engineering     
 (chaopenl@andrew.cmu.edu)
-* Yen-Shuo Su (Spring 23)  
+* Yen-Shuo Su (Spring 23)     
 Master Program, Electrical & Computer Engineering  
 (yenshuos@andrew.cmu.edu)
-* Eric (Jingxuan) Wu (Fall 24)  
+* Eric (Jingxuan) Wu (Fall 24)      
 Master Program, Electrical & Computer Engineering
 (jingxua5@andrew.cmu.edu)
-* Netra Trivedi (Fall 24)  
+* Netra Trivedi (Fall 24)     
 Master Program, Electrical & Computer Engineering
 (nptrived@andrew.cmu.edu)
-* Eion Tyacke (Fall 24)  
+* Eion Tyacke (Fall 24)    
 Master Program, Electrical & Computer Engineering
 (etyacke@andrew.cmu.edu)
 
