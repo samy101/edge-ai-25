@@ -58,11 +58,11 @@ Electrical & Computer Engineering,<br>
 ---
 ### Spring 23
 * Chao-Peng Liu <br>
-Master Program, Electrical & Computer Engineering\
-(chaopenl@andrew.cmu.edu)    
-* Yen-Shuo Su    
-Master Program, Electrical & Computer Engineering
-(yenshuos@andrew.cmu.edu) 
+Master Program, Electrical & Computer Engineering <br>
+(chaopenl@andrew.cmu.edu) <br>    
+* Yen-Shuo Su <br>   
+Master Program, Electrical & Computer Engineering <br>
+(yenshuos@andrew.cmu.edu) <br>
  
 ### Fall 24
 * Eric (Jingxuan) Wu      
