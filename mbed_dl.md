@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Introduction to Embedded Deep Learning & TinyML
-subtitle: Electrical & Computer Engineering, Carnegie Mellon University
+title: Embedded Deep Learning & TinyML
+subtitle: ECE, Carnegie Mellon University
 ---
 ## Course Description  
 ---  
