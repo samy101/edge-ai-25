@@ -64,7 +64,7 @@ Master Program, Electrical & Computer Engineering
 Master Program, Electrical & Computer Engineering                    
 (yenshuos@andrew.cmu.edu)                         
  
-### Fall 24
+### Fall 23
 * Eric (Jingxuan) Wu                                     
 Master Program, Electrical & Computer Engineering                         
 (jingxua5@andrew.cmu.edu)                          
@@ -105,12 +105,13 @@ Master Program, Electrical & Computer Engineering
 7. Speech command part 2: Building and deploying a model on the Arduino Nano 33 BLE sense
 8. Object detection part 1: data collection using smartphone camera or the OV7675 camera 
 9. Object detection part 2: Building and deploying a model to Arduino Nano 33 BLE sense or smartphone.  
-(Assginment 8 & 9 are subject to time availability in the semester)
+   (Assginment 8 & 9 are subject to time availability in the semester)
 
 ## Projects
 ---
 This course engages students with group driven projects and presentations   
 [Please visit the project summary listing for Spring 2023](/embed-dl-s23/EmbeddedDL_S23/projects_s23)
+[Please visit the project summary listing for Fall 2023](/embed-dl-s23/EmbeddedDL_S23/projects_s23)
 
 #### Acknowledgment
 ---
