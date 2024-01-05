@@ -92,7 +92,20 @@ Master Program, Electrical & Computer Engineering
   - Audio classification using a microphone sensor
   - Computer vision using a camera sensor
   - Anomaly detection using a combination of sensors
-* Sensor fusion
+* Object detection models such as YOLO v1-8 
+* Sensor fusion (if time permits)
+
+## Assginements
+1. Concepts and motivations for TinyML
+2. Building shallow neural networks with Python and Jupiter Notebook/Google Colab
+3. TensorFlow, the Gradient and building deep neural networks
+4. Gesture recogntion part 1: data collection
+5. Gesture recogntion part 2: Building and doploying a model on the Arduino Nano 33 BLE sense
+6. Speech command part 1: data collection for wakeup keywords
+7. Speech command part 2: Building and deploying a model on the Arduino Nano 33 BLE sense
+8. Object detection part 1: data collection using smartphone camera or the OV7675 camera 
+9. Object detection part 2: Building and deploying a model to Arduino Nano 33 BLE sense or smartphone.
+(Assginment 8 & 9 are subject to time availability in the semester)
 
 ## Projects
 ---
