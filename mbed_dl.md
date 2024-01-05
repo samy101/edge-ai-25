@@ -104,7 +104,7 @@ Master Program, Electrical & Computer Engineering
 6. Speech command part 1: data collection for wakeup keywords
 7. Speech command part 2: Building and deploying a model on the Arduino Nano 33 BLE sense
 8. Object detection part 1: data collection using smartphone camera or the OV7675 camera 
-9. Object detection part 2: Building and deploying a model to Arduino Nano 33 BLE sense or smartphone.
+9. Object detection part 2: Building and deploying a model to Arduino Nano 33 BLE sense or smartphone.  
 (Assginment 8 & 9 are subject to time availability in the semester)
 
 ## Projects
