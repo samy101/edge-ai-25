@@ -110,7 +110,7 @@ Master Program, Electrical & Computer Engineering
 ## Projects
 ---
 This course engages students with group driven projects and presentations   
-[Please visit the project summary listing for Spring 2023](/embed-dl-s23/EmbeddedDL_S23/projects_s23)
+[Please visit the project summary listing for Spring 2023](/embed-dl-s23/EmbeddedDL_S23/projects_s23)  
 [Please visit the project summary listing for Fall 2023](/embed-dl-s23/EmbeddedDL_S23/projects_s23)
 
 #### Acknowledgment
