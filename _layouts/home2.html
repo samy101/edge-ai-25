@@ -4,11 +4,11 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign posts = paginator.posts2 | default: site.posts2 %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
-  {% for post in posts2 %}
+  {% for post in posts %}
   <li class="post-preview">
     <article>
 
