@@ -4,7 +4,7 @@ title: Athletech
 subtitle: Adeesh Bhargava, Varun Jain, and Rohan Paranjape
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/athletech_1.jpg
-# share-img: /assets/img/path.jpg
+# share-img: /assets/img/path.jpg  
 tags: [fall_23]
 ---
 
