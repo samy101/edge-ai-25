@@ -3,6 +3,8 @@ layout: base
 ---
 
 {% include header.html type="post" %}
+{% assign posts = site.tags.spring_23 %}
+{% assign site.posts = posts %}
 
 <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
