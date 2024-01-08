@@ -51,7 +51,7 @@ Electrical & Computer Engineering,<br>
 (zyoussfi@andrew.cmu.edu)<br><br>   
 
 I developed this course to help students learn about
-the exiting new opportunities in the field of
+the exciting new opportunities in the field of
 embedded machine learning and tinyML.<br><br>  
   </div>
 
