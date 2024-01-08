@@ -48,10 +48,10 @@ cross-listed as **18-448 and 18-848C**.
 Ziad Youssfi, PhD <br>    
 Associate Teaching Professor, <br> 
 Electrical & Computer Engineering,<br>  
-(zyoussfi@andrew.cmu.edu)<br>   
+(zyoussfi@andrew.cmu.edu)<br><br>   
 
-I developed this course to help students learn about<br> 
-the exiting new opportunities in the field of <br> 
+I developed this course to help students learn about
+the exiting new opportunities in the field of
 embedded machine learning and tinyML...<br><br>  
   </div>
 
