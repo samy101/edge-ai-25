@@ -31,7 +31,7 @@ cross-listed as **18-448 and 18-848C**.
 .column {
   float: left;
   width: 60%;
-  padding: 10px;
+  padding: 5px;
   height: 220px; /* Should be removed. Only for demonstration */
 }
 
