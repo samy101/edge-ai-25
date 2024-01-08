@@ -5,7 +5,7 @@ subtitle: Ajith Potluri, Eion Tyacke, and Parker Crain
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/dog_fitbit_1.jpg
 # share-img: /assets/img/path.jpg
-# tags: [books, test]
+tags: [spring_23]
 ---
 
 This project investigates on-device deep learning models paired with an embedded system that can be used to track the movement of a dog for its owner. This valuable insight may help an owner to better understand the activities of the dog while the owner is away. The microcontroller with a battery is small enough that it could easily be attachable to a dog’s collar.

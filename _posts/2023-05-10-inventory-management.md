@@ -5,7 +5,7 @@ subtitle: Netra Trivedi, Rishi Pachipulusu, and Cathy Tungyun
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/inventory_management_1.jpg
 # share-img: /assets/img/path.jpg
-# tags: [books, test]
+tags: [spring_23]
 ---
 
 In a warehouse or a retail setup: Given a frame of reference, our model indicates the percentage of empty spaces with reference to a shelf full of boxes (either rectangular or square) for new inventory. 

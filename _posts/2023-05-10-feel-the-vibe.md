@@ -5,7 +5,7 @@ subtitle: Samuel Leong and Alex Strasser
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/feel_the_vibe_1.jpg
 # share-img: /assets/img/path.jpg
-# tags: [books, test]
+tags: [spring_23]
 ---
 Wearables are getting increasingly popular and feasible as computing power becomes smaller and more powerful. Indeed, the advent of advanced sensors and intelligence being packed into smaller packages opens up new opportunities for novel applications. In "Feel the Vibe", we aim to create a wearable that is able to display the emotion from speech in the form of an RGB Neopixel Ring that changes colors based on the detected emotion.
 

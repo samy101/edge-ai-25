@@ -5,7 +5,7 @@ subtitle: James Li, Pingyuan Liang, and Xuanye Li
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/crosswalk_aid_1.jpg
 # share-img: /assets/img/path.jpg
-# tags: [books, test]
+tags: [spring_23]
 ---
 
 The visually impaired encounter a number of difficulties when crossing streets. Without auditory information from parallel traffic, blind pedestrians can easily veer away from crosswalks. Complicated road junctions may also confuse a blind pedestrian’s ability to accurately determine the location of crosswalks. Last but not least, blind pedestrians are also inconvenienced by the fact that they always have to wait for the start of a pedestrian cycle to begin crossing to ensure they have enough time. These problems can be alleviated by dog guides and/or electronic aid, but these solutions are typically very expensive. As a result, we propose an alternative crosswalk aid solution which we will power using a Raspberry Pi and a RPi camera module. The crosswalk aid solution offers the follow functionality:

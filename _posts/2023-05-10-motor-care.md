@@ -5,7 +5,7 @@ subtitle: Abhishek Basrithaya and Yuyang Xu
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/motor_care_1.jpg
 # share-img: /assets/img/path.jpg
-# tags: [books, test]
+tags: [spring_23]
 ---
 
 An electric motor is a rudimentary electro-mechanical device that is ubiquitous from wheels of an automobile, fans, automatic windows shades to magnetic disks for memory storage etc. Efficient operation of these fundamental devices is imperative for the smooth operation of the overarching device in question. Timely maintenance of these motors are essential to maintain the desired efficiency levels. Introducing “Motor Care”, a data driven system that continuously monitors the target motor with the help of sensors attached to the motor. Providing feedback and analytics on the motor performance and maintenance of critical motor parts. Developing such a model requires apprehension of sensors needed, collecting meaningful data, extracting important features, training our model and final deployment on an embedded platform.  

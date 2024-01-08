@@ -5,7 +5,7 @@ subtitle: Jong-Ik Park, Chad Taylor, and Anudeep Bolimera
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/multi_node_1.jpg
 # share-img: /assets/img/path.jpg
-# tags: [books, test]
+tags: [spring_23]
 ---
 
 

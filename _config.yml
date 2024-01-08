@@ -10,17 +10,19 @@
 ############################
 
 # Name of website
-title: Introduction to Embedded Deep Learning
+title: Embedded Deep Learning, ECE, Carnegie Mellon University
 
 # Your name to show in the footer
-author: Intro to Embedded Deep Learning
+author: Ziad Youssfi
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  Projects: "/EmbeddedDL_S23/projects_s23"
+  Projects: 
+    - Spring 2023: "/projects_s23"
+    - Fall 2023: "/projects_f23"
   Resources: 
     - Tensorflow Lite: "https://www.tensorflow.org/lite"
     - Tensorflow Lite Micro: "https://www.tensorflow.org/lite/microcontrollers"
