@@ -5,7 +5,7 @@ subtitle: Aishwarya Joshi, Iris Dong, and  Sreekesh Devanathan
 # cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/light_control_1.jpg
 # share-img: /assets/img/path.jpg
-# tags: [books, test]
+tags: [fall_23]
 ---
 For more information, please contact the authors:  
 (aishwarj@andrew.cmu.edu)  
@@ -18,8 +18,8 @@ The core of the voice-controlled lighting system is the Arduino Nano 33 BLE Sens
 The hardware setup includes a solderless power supply that ensures continuous operation and flexibility in placement. This power supply connects to a reliable 9V battery, offering portability and eliminating the need for a constant power source. The use of a battery not only enhances mobility but also ensures a consistent power supply in scenarios where conventional power outlets are unavailable. The comprehensive hardware configuration results in a compact, portable, and user-friendly voice-controlled lighting system. The synergy between the Arduino Nano 33 BLE Sense, MEMS microphone, NeoPixel LED strip, and battery power supply creates a seamless integration of hardware components, providing users with an immersive and convenient lighting control experience in various settings.  
 
 In conclusion, the extended hardware setup of the voice-controlled lighting system is a well-designed and efficient configuration. The system's hardware components work cohesively to offer users a customizable and aesthetically pleasing lighting experience. The inclusion of a solderless power supply and battery power source enhances the system's portability and ensures continuous operation in various settings.  
-<p align="center"> <img src="/mbed-dl/assets/img/light_control_1.jpg" width="100%" height="100%"> </p>
-<p align="center"> <img src="/mbed-dl/assets/img/light_control_2.jpg" width="100%" height="100%"> </p>
-<p align="center"> <img src="/mbed-dl/assets/img/light_control_3.jpg" width="100%" height="100%"> </p>
-<p align="center"> <img src="/mbed-dl/assets/img/light_control_4.jpg" width="100%" height="100%"> </p>
-<p align="center"> <img src="/mbed-dl/assets/img/light_control_5.jpg" width="100%" height="100%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/light_control_1.jpg" width="100%" height="100%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/light_control_2.jpg" width="100%" height="100%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/light_control_3.jpg" width="100%" height="100%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/light_control_4.jpg" width="100%" height="100%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/light_control_5.jpg" width="100%" height="100%"> </p>
