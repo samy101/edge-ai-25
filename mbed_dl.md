@@ -30,7 +30,7 @@ cross-listed as **18-448 and 18-848C**.
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 60%;
+  width: 50%;
   padding: 5px;
   height: 220px; /* Should be removed. Only for demonstration */
 }
@@ -52,7 +52,7 @@ Electrical & Computer Engineering,<br>
 
 I developed this course to help students learn about<br> 
 the exiting new opportunities in the field of <br> 
-embedded machine learning and tinyML.<br><br>  
+embedded machine learning and tinyML...<br><br>  
   </div>
 
   <div class="column"><img width="40%" src="/mbed_dl/assets/img/Me.jpg"></div>
