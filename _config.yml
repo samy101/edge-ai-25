@@ -29,6 +29,7 @@ navbar-links:
     - Model Optimization: "https://www.tensorflow.org/model_optimization"
     - Edge Impulse: "https://www.edgeimpulse.com"
     - Arduino Nano 33 BLE Sense Overivew: "https://docs.arduino.cc/hardware/nano-33-ble-sense"
+    - tinyML Foundation: "https://www.tinyml.org/about/"
 
 ################
 # --- Logo --- #
