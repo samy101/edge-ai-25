@@ -15,7 +15,7 @@ The hardware setup includes a solderless power supply that ensures continuous op
 In conclusion, the extended hardware setup of the voice-controlled lighting system is a well-designed and efficient configuration. The system's hardware components work cohesively to offer users a customizable and aesthetically pleasing lighting experience. The inclusion of a solderless power supply and battery power source enhances the system's portability and ensures continuous operation in various settings.  
 
 <p align="center"> <img src="/mbed_dl/assets/img/light_control_1.jpg" width="100%" height="100%"> </p>
-<p align="center"> <img src="/mbed_dl/assets/img/light_control_2.jpg" width="100%" height="100%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/light_control_2.jpg" width="50%" height="50%"> </p>
 <p align="center"> <img src="/mbed_dl/assets/img/light_control_3.jpg" width="100%" height="100%"> </p>
 <p align="center"> <img src="/mbed_dl/assets/img/light_control_4.jpg" width="100%" height="100%"> </p>
 <p align="center"> <img src="/mbed_dl/assets/img/light_control_5.jpg" width="100%" height="100%"> </p>

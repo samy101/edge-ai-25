@@ -13,18 +13,18 @@ Our system runs Edge Impulse’s FOMO object detection model [3] to detect licen
 
 Despite performance issues with our chosen Optical Charac- ter Recognition (OCR) model, the overall pipeline successfully demonstrates the viability of the proposed low-cost system as both an improved parking payment system and a more efficient parking enforcement system.  
 
-##Introduction  
+# Introduction  
 
 Parking infrastructure is remarkably inadequate. Street park- ing, garage/permit-based parking, and parking enforcement infrastructure alike are wildly behind in the technology they utilize and the interface they provide to end-users as a result.  
 
-###The Problem  
+# The Problem  
 
 In 2023, it is still necessary to tote around a handful of different apps on your smartphone to pay for street parking, depending on where you find yourself. Even when you do have the right app, in many cases, you have to continue to manually ”reload” the meter every so many hours or risk getting a ticket.  
 For permitted parking, you still often have to swipe a physical key or card of some sort to admit you access to the garage/lot. In city garages used for events by visitors, similar infrastructure is used, but requires the user to manually pay their ticket at a physical kiosk or with a credit card before departing. This then only adds to the congestion in parking garages when troves of people all try to leave at the same time.  
 
 Additionally, for businesses, universities, and municipalities, parking enforcement is still a manual process. Without modern technology, these entities are left employing someone to man- ually walk around and ticket vehicles that are illegally parked. More recent methods involve driving around a vehicle outfitted with cameras to identify unregistered/illegally parked vehicles according to their vehicle type and plate number. While this is certainly an improvement over traditional ”on-foot” methods, it still requires an employee to spend their time driving all over creation and can not be used to enforce parking laws in real time in every location. While you can scale this solution up, it requires more drivers, more specially equipped vehicles–and therefore a whole lot more money.
 
-###Our Solution
+# Our Solution
 With the rise in popularity of deep learning based computer vision in the last decade, Automatic License Plate Recognition (ALPR) has become more practically feasible than ever before, as demonstrated in papers like [17], [7], and [11]. Also a product of growing research dedicated to ALPR is the increasingly large number of datasets available like [16], [12], and [6] available to train the networks that make up ALPR systems.  
 
 However, advances in deep learning and computer vision alone are not enough to (realistically) solve this problem. In order for a municipality, business, landlord, or university to adopt any technological solution, it must be affordable and scalable–as well as (hopefully) solve more problems than it creates.  
