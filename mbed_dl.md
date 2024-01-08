@@ -52,7 +52,7 @@ Electrical & Computer Engineering,<br>
 
 I developed this course to help students learn about the exiting<br> 
 new opportunities in the field of embedded machine learning<br>
-and tinyML 
+and tinyML.<br><br>  
   </div>
 
   <div class="column"><img width="25%" src="/mbed_dl/assets/img/Me.jpg"></div>
