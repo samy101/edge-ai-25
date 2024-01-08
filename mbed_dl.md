@@ -100,7 +100,7 @@ Master Program, Electrical & Computer Engineering
 * Object detection models such as YOLO v1-8 
 * Sensor fusion (if time permits)
 
-## Assginements
+## Assignments
 1. Concepts and motivations for TinyML
 2. Building shallow neural networks with Python and Jupiter Notebook/Google Colab
 3. TensorFlow, the Gradient and building deep neural networks
