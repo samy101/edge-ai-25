@@ -32,7 +32,7 @@ cross-listed as **18-448 and 18-848C**.
   float: left;
   width: 50%;
   padding: 5px;
-  height: 240px; /* Should be removed. Only for demonstration */
+  height: 250px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -52,7 +52,7 @@ Electrical & Computer Engineering,<br>
 
 I developed this course to help students learn about
 the exiting new opportunities in the field of
-embedded machine learning and tinyML.<br><br>  
+embedded machine learning and tinyML..<br><br>  
   </div>
 
   <div class="column"><img width="40%" src="/mbed_dl/assets/img/Me.jpg"></div>
