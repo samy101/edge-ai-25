@@ -30,9 +30,9 @@ cross-listed as **18-448 and 18-848C**.
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 60%;
   padding: 10px;
-  height: 150px; /* Should be removed. Only for demonstration */
+  height: 200px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
