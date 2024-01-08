@@ -33,14 +33,14 @@ To solve this problem in a scalable and economical way, we propose a system that
 
 This paper focuses on a primitive implementation of the proposed system that we create to demonstrate the viability of such a system. Specifically, we first discuss the motivation behind the system architecture. We then examine the design, training, and deployment of the deep learning model that runs on the microcontroller-based meter devices. Additionally, we briefly examine the construction of hub device’s software prototype, as well as other hardware considerations for the system.
 
-<p align="center"> <img src="/mbed_dl/assets/img/license_plate_1.jpg" width="50%" height="50%"> </p>
-<p align="center"> <img src="/mbed_dl/assets/img/license_plate_2.jpg" width="50%" height="50%"> </p>
-<p align="center"> <img src="/mbed_dl/assets/img/license_plate_3.jpg" width="50%" height="50%"> </p>
-<p align="center"> <img src="/mbed_dl/assets/img/license_plate_4.jpg" width="50%" height="50%"> </p>
-<p align="center"> <img src="/mbed_dl/assets/img/license_plate_5.jpg" width="50%" height="50%"> </p>
-<p align="center"> <img src="/mbed_dl/assets/img/license_plate_6.jpg" width="50%" height="50%"> </p>  
+<p align="center"> <img src="/mbed_dl/assets/img/license_plate_1.jpg" width="90%" height="90%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/license_plate_2.jpg" width="90%" height="90%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/license_plate_3.jpg" width="90%" height="90%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/license_plate_4.jpg" width="90%" height="90%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/license_plate_5.jpg" width="90%" height="90%"> </p>
+<p align="center"> <img src="/mbed_dl/assets/img/license_plate_6.jpg" width="90%" height="90%"> </p>  
 
-##For more information, please contact the authors:    
-(nlitzing@andrew.cmu.edu)  
-(sroycho2@andrew.cmu.edu)  
-(ssbhanda@andrew.cmu.edu)  
+# For more information, please contact the authors:    
+* nlitzing@andrew.cmu.edu  
+* sroycho2@andrew.cmu.edu  
+* ssbhanda@andrew.cmu.edu  

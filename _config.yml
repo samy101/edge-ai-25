@@ -20,7 +20,7 @@ author: Ziad Youssfi
 ###############################################
 
 navbar-links:
-  Projects: 
+  Course Projects: 
     - Spring 2023: "/projects_s23"
     - Fall 2023: "/projects_f23"
   Resources: 
