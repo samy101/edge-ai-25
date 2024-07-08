@@ -10,26 +10,26 @@
 ############################
 
 # Name of website
-title: Embedded Deep Learning, ECE, Carnegie Mellon University
+title: Edge AI at IISc
 
 # Your name to show in the footer
-author: Ziad Youssfi
+author: Pandarasamy Arjunan
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Course Projects: 
-    - Spring 2023: "/projects_s23"
-    - Fall 2023: "/projects_f23"
-  Resources: 
-    - Tensorflow Lite: "https://www.tensorflow.org/lite"
-    - Tensorflow Lite Micro: "https://www.tensorflow.org/lite/microcontrollers"
-    - Model Optimization: "https://www.tensorflow.org/model_optimization"
-    - Edge Impulse: "https://www.edgeimpulse.com"
-    - Arduino Nano 33 BLE Sense Overivew: "https://docs.arduino.cc/hardware/nano-33-ble-sense"
-    - tinyML Foundation: "https://www.tinyml.org/about/"
+# navbar-links:
+#   Course Projects: 
+#     - Spring 2023: "/projects_s23"
+#     - Fall 2023: "/projects_f23"
+#   Resources: 
+#     - Tensorflow Lite: "https://www.tensorflow.org/lite"
+#     - Tensorflow Lite Micro: "https://www.tensorflow.org/lite/microcontrollers"
+#     - Model Optimization: "https://www.tensorflow.org/model_optimization"
+#     - Edge Impulse: "https://www.edgeimpulse.com"
+#     - Arduino Nano 33 BLE Sense Overivew: "https://docs.arduino.cc/hardware/nano-33-ble-sense"
+#     - tinyML Foundation: "https://www.tinyml.org/about/"
 
 ################
 # --- Logo --- #
