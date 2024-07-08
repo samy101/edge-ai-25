@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Embedded Deep Learning & TinyML
-subtitle: ECE, Carnegie Mellon University
+title: Edge AI
+subtitle: RBCCPS, Indian Institute of Science
 ---
 ## Course Description  
 ---  
