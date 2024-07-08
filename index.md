@@ -9,8 +9,11 @@ This course provides students with the fundamentals of edge AI and hands-on expe
 
 ## Instructor
 Pandarasamy Arjunan (Samy)
+
 Assistant Professor
+
 Robert Bosch Centre for Cyber Physical Systems (RBCCPS)
+
 Indian Institute of Science, Bangalore, India.
 
 ## Topics
