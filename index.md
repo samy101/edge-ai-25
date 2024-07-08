@@ -5,121 +5,49 @@ subtitle: RBCCPS, Indian Institute of Science
 ---
 ## Course Description  
 ---  
-Embedded or “edge” devices with sensors generate a tremendous amount of data every second. 
-Sending these data to the cloud for intelligent decision making by machine learning models 
-consumes energy and imposes undesired latency and cost. Processing the data locally on the 
-edge lowers latency, energy, and cost. This course introduces deep neural network architectures,
-such as dense, convolutional, and recurrent networks, and their respective applications and 
-training in the cloud. Students then learn to downsize their trained models so they can deploy 
-them for inferencing on microcontrollers running on the edge with power and computation constraints. 
-Students are encouraged to create their own projects drawing from such fields as agriculture, 
-environment, conservation, health, manufacturing, or home automation. Students are expected to have 
-embedded systems knowledge equivalent to 18-349 (Introduction to Embedded Systems). This course is 
-cross-listed as **18-448 and 18-848C**.  
+This course provides students with the fundamentals of edge AI and hands-on experience in designing end-to-end AI systems for resource-constrained computing devices, such as microcontrollers It aims to equip students with knowledge of hardware systems and AI model optimization techniques and tools for IoT edge devices. After completing the course, students will have the skills to implement AI models, such as computer vision, on embedded/edge devices for various real-world applications, including smart cities, sustainability, healthcare, and agriculture.  
 
 ## Instructor
----
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 250px; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<div class="row">
-  <div class="column">
-Ziad Youssfi, PhD <br>    
-Associate Teaching Professor, <br> 
-Electrical & Computer Engineering,<br>  
-(zyoussfi@andrew.cmu.edu)<br><br>   
-
-I developed this course to help students learn about
-the exciting new opportunities in the field of
-embedded machine learning and tinyML.<br><br>  
-  </div>
-
-  <div class="column"><img width="40%" src="/mbed_dl/assets/img/Me.jpg"></div>
-</div>
-</html>
-
-## Teaching Assistants
----
-### Spring 23
-* Chao-Peng Liu                                                   
-Master Program, Electrical & Computer Engineering                          
-(chaopenl@andrew.cmu.edu)                                                
-* Yen-Shuo Su   
-Master Program, Electrical & Computer Engineering                    
-(yenshuos@andrew.cmu.edu)                         
- 
-### Fall 23
-* Eric (Jingxuan) Wu                                     
-Master Program, Electrical & Computer Engineering                         
-(jingxua5@andrew.cmu.edu)                          
-* Netra Trivedi                                 
-Master Program, Electrical & Computer Engineering                         
-(nptrived@andrew.cmu.edu)                           
-* Eion Tyacke                          
-Master Program, Electrical & Computer Engineering                         
-(etyacke@andrew.cmu.edu)                         
+Pandarasamy Arjunan (Samy)
+Assistant Professor
+Robert Bosch Centre for Cyber Physical Systems (RBCCPS)
+Indian Institute of Science, Bangalore, India.
 
 ## Topics
 ---
-* Motivation for TinyML or Embedded Machine Learning and its applications
-* Fundamental of Deep Neural Networks for dense and convolutional architectures
-* Machine learning pipeline for embedded systems
-  - Data collection, preprocessing, and data engineering
-  - Designing and training a model
-  - Model conversion concepts for embedded and mobile devices:  
-   post training and training aware quantization
-  - Model deployment to embedded systems
-* Real-time embedded systems optimization 
-* Ethics of ML and embedded ML
-* Applications of machine learning pipeline to the following domains:
-  - Motion detection using an IMU (inertial management unit) sensor
-  - Audio classification using a microphone sensor
-  - Computer vision using a camera sensor
-  - Anomaly detection using a combination of sensors
-* Object detection models such as YOLO v1-8 
-* Sensor fusion (if time permits)
+* Introduction to Edge AI
+* ML/AI Algorithms and Computer Vision Fundamentals
+* Edge AI Hardware and Accelerators
+* Edge AI Software Frameworks and Libraries
+* Model Optimization and Pruning Techniques and Tools
+* Deployment of Edge AI Systems and Case Studies
 
-## Assignments
-1. Concepts and motivations for TinyML
-2. Building shallow neural networks with Python and Jupiter Notebook/Google Colab
-3. TensorFlow, the Gradient and building deep neural networks
-4. Gesture recogntion part 1: data collection
-5. Gesture recogntion part 2: Building and doploying a model on the Arduino Nano 33 BLE sense
-6. Speech command part 1: data collection for wakeup keywords
-7. Speech command part 2: Building and deploying a model on the Arduino Nano 33 BLE sense
-8. Object detection part 1: data collection using smartphone camera or the OV7675 camera 
-9. Object detection part 2: Building and deploying a model to Arduino Nano 33 BLE sense or smartphone.  
-   (Assginment 8 & 9 are subject to time availability in the semester)
+### Prerequisites
 
-## Projects
----
-This course engages students with group driven projects and presentations   
-[Please visit the project summary listing for Spring 2023](/mbed_dl/projects_s23)  
-[Please visit the project summary listing for Fall 2023](/mbed_dl/projects_f23)
+Proficiency in Python programming is essential, while C programming and a basic understanding of AI/ML, microcontrollers, and IoT systems would be a plus.
+
+### Grading
+- 3 programming assignments (45%)
+- 3 quizzes (15%)
+- Course project (40%)
+
+### Text books and references
+Textbooks/References
+ - TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden and Daniel Situnayake TinyML Cookbook (2022) by Gian Marco Iodice
+ - AI at the Edge: Solving Real-World Problems with Embedded Machine Learning (2022) by Daniel Situnayake and Jenny Plunkett.
+ - Deep Learning on Microcontrollers: Learn how to develop embedded AI applications using TinyML (2023) by Atul Krishna Gupta and Dr. Siva Prasad Nandyala
+ - TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden and Daniel Situnayake
+ - Hands-on TinyML: Harness the power of Machine Learning on the edge devices (2023) by Rohan Banerjee
+ - Dive Into Deep Learning (2023), Aston Zhang, Mu Li, Alexander J. Smola, Zachary Lipton.
+
+### Similar courses: 
+1.	NVIDIA - Edge AI and Robotics Teaching Kit
+2.	Intel - AI on the Edge with Computer Vision 
+3.	TinyML and Efficient Deep Learning Computing (MIT)
+4.	ESE3600: Tiny Machine Learning (UPenn)  
+5.	edX tinyML Specialization (Harvard University)
 
 #### Acknowledgment
 ---
-**We acknowledge Edge Impuluse for their donations of Arduino Nano 33 BLE ML kits and the free access to their Design Studio**  
-<img src="/embed-dl-s23/assets/img/edge_impulse_1.jpg" width="35%" height="35%">
+**We acknowledge the [tinyML Courseware](https://github.com/tinyMLx/courseware) for sharing usefull materials which are partically adoped in this course.**
 
