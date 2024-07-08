@@ -35,7 +35,6 @@ Proficiency in Python programming is essential, while C programming and a basic 
 - Course project (40%)
 
 ### Text books and references
-Textbooks/References
  - TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden and Daniel Situnayake TinyML Cookbook (2022) by Gian Marco Iodice
  - AI at the Edge: Solving Real-World Problems with Embedded Machine Learning (2022) by Daniel Situnayake and Jenny Plunkett.
  - Deep Learning on Microcontrollers: Learn how to develop embedded AI applications using TinyML (2023) by Atul Krishna Gupta and Dr. Siva Prasad Nandyala
