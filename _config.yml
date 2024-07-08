@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Edge AI at IISc
+title: Edge AI, Indian Institute of Science
 
 # Your name to show in the footer
 author: Pandarasamy Arjunan
@@ -40,7 +40,7 @@ author: Pandarasamy Arjunan
 avatar: "/assets/img/IISc_Master_Seal.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -54,7 +54,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "zyoussfi@andrew.cmu.edu"
+  email: "samy@iisc.ac.in"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
@@ -84,7 +84,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is for the course intro to Embedded Deep Learning
+rss-description: This website is for the course intro to Edge AI
 
 ###########################
 # --- General options --- #
@@ -132,7 +132,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#33BB95"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
