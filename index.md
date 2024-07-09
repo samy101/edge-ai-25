@@ -8,10 +8,10 @@ subtitle: Indian Institute of Science
 This course provides students with the fundamentals of edge AI and hands-on experience in designing end-to-end AI systems for resource-constrained computing devices, such as microcontrollers It aims to equip students with knowledge of hardware systems and AI model optimization techniques and tools for IoT edge devices. After completing the course, students will have the skills to implement AI models, such as computer vision, on embedded/edge devices for various real-world applications, including smart cities, sustainability, healthcare, and agriculture.  
 
 ## Instructor
-Pandarasamy Arjunan (Samy)
-Assistant Professor
-Robert Bosch Centre for Cyber Physical Systems (RBCCPS)
-Indian Institute of Science, Bangalore, India.
+Pandarasamy Arjunan (Samy)  
+Assistant Professor  
+Robert Bosch Centre for Cyber Physical Systems (RBCCPS)  
+Indian Institute of Science, Bangalore, India.  
 
 ## Topics
 ---
