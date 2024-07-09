@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Edge AI
-subtitle: RBCCPS, Indian Institute of Science
+title: CP330: Edge AI
+subtitle: Indian Institute of Science
 ---
 ## Course Description  
 ---  
@@ -9,11 +9,8 @@ This course provides students with the fundamentals of edge AI and hands-on expe
 
 ## Instructor
 Pandarasamy Arjunan (Samy)
-
 Assistant Professor
-
 Robert Bosch Centre for Cyber Physical Systems (RBCCPS)
-
 Indian Institute of Science, Bangalore, India.
 
 ## Topics
