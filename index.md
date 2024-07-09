@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CP330: Edge AI
+title: CP330\: Edge AI
 subtitle: Indian Institute of Science
 ---
 ## Course Description  
