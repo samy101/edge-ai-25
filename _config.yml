@@ -19,11 +19,11 @@ author: Pandarasamy Arjunan
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
+navbar-links:
   # Course Projects: 
   #   - Spring 2023: "/projects_s23"
   #   - Fall 2023: "/projects_f23"
-  Resources: 
+  Resources:
     - Tensorflow Lite: "https://www.tensorflow.org/lite"
     - Tensorflow Lite Micro: "https://www.tensorflow.org/lite/microcontrollers"
     - Model Optimization: "https://www.tensorflow.org/model_optimization"
