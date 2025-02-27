@@ -7,17 +7,17 @@ subtitle: Indian Institute of Science
 
 ## Course Instructor  
 
-<table cellspacing="0" cellpadding="0" style="text-align: left; vertical-align: top;">
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; text-align: left; vertical-align: top; border: none;">
   <tr>
-    <td style="padding-right: 20px; vertical-align: top;">
-      <h3>Pandarsamy Arjunan</h3>
+    <td style="padding-right: 20px; vertical-align: top; border: none;">
+      <h4>Pandarsamy Arjunan</h4>
       Assistant Professor<br>
       Robert Bosch Centre for Cyber Physical Systems (RBCCPS)<br>
       Indian Institute of Science, Bangalore, India.
     </td>
-    <td style="vertical-align: top;">
-      <h3>Teaching Assistants</h3>
-      <ul>
+    <td style="vertical-align: top; border: none;">
+      <h4>Teaching Assistants</h4>
+      <ul style="margin: 0; padding-left: 20px;">
         <li>Pandarsamy Arjunan</li>
         <li>Pandarsamy Arjunan</li>
         <li>Pandarsamy Arjunan</li>
@@ -28,12 +28,6 @@ subtitle: Indian Institute of Science
     </td>
   </tr>
 </table>
-
-- Pandarsamy Arjunan, Assistant Professor, Robert Bosch Centre for Cyber Physical Systems (RBCCPS), Indian Institute of Science, Bangalore, India
-
-## Teaching Assistants 
-- safda
-- sadfas 
 
 
 ## Course Description  
