@@ -2,7 +2,7 @@
 layout: page
 title: CP 330 - Edge AI
 subtitle: Indian Institute of Science
-cover-img: assets/img/workout_5.jpg
+cover-img: https://www.imec-int.com/sites/default/files/2020-07/AI-roadmap--the-future-of-edge-AI.jpg
 ---
 ## Course Description  
 ---  
