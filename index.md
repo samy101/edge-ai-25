@@ -1,5 +1,6 @@
 ---
 layout: page
+full-width: true
 title: CP 330 - Edge AI
 subtitle: Indian Institute of Science
 ---
