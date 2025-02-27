@@ -20,9 +20,9 @@ author: Pandarasamy Arjunan
 ###############################################
 
 navbar-links:
-  - Schedule: "/schedule"
-  - Assignments: "/assignments"
-  - Course Project: "/project"
+  Schedule: "/schedule"
+  Assignments: "/assignments"
+  Course Project: "/project"
   Course Projects: 
     - Spring 2023: "/projects_s23"
     - Fall 2023: "/projects_f23"
