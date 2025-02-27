@@ -6,24 +6,26 @@ subtitle: Indian Institute of Science
 ---
 
 ## Course Instructor  
-
+---  
 <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; text-align: left; vertical-align: top; border: none;">
   <tr>
     <td style="padding-right: 20px; vertical-align: top; border: none;">
       <h4>Pandarsamy Arjunan</h4>
       Assistant Professor<br>
-      Robert Bosch Centre for Cyber Physical Systems (RBCCPS)<br>
-      Indian Institute of Science, Bangalore, India.
+      Centre for Cyber Physical Systems<br>
+      Indian Institute of Science.
     </td>
     <td style="vertical-align: top; border: none;">
       <h4>Teaching Assistants</h4>
       <ul style="margin: 0; padding-left: 20px;">
-        <li>Pandarsamy Arjunan</li>
-        <li>Pandarsamy Arjunan</li>
-        <li>Pandarsamy Arjunan</li>
-        <li>Pandarsamy Arjunan</li>
-        <li>Pandarsamy Arjunan</li>
-        <li>Pandarsamy Arjunan</li>
+        <li>Kunal Ajay Wasnik</li>
+        <li>Md Farhad Hussain</li>
+        <li>Praveen Kottari</li>
+        <li>Praveen Prasad Handigol</li>
+        <li>Sayli Santosh Sawant</li>
+        <li>Sourabh Dandare</li>
+        <li>Sudharsan</li>
+        <li>Vandana Vinod Mourya</li>        
       </ul>
     </td>
   </tr>
