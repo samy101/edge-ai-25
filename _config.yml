@@ -20,6 +20,7 @@ author: Pandarasamy Arjunan
 ###############################################
 
 navbar-links:
+  Home: "/"
   Schedule: "/schedule"
   Assignments: "/assignments"
   Course Project: "/project"
