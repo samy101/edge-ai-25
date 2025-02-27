@@ -54,13 +54,26 @@ The topics covered in this course are:
 ---
 
 #### Prerequisites
-This course heavily focuses on programming embedded systems using Arduino C and MicroPython, as well as implementing efficient machine learning (ML) models with libraries such as TensorFlow Lite. Therefore, proficiency in Python and C programming is essential. A basic understanding of AI/ML concepts, microcontrollers, and IoT systems is also recommended to fully benefit from the course.
 
+This course focuses heavily on hands-on learning. Students will work with embedded systems and program them using MicroPython and Arduino C. They will also learn how to implement and run efficient machine learning (ML) models using tools like TensorFlow and LiteRT. Therefore, proficiency in Python and C programming is essential. Additionally, a basic understanding of AI/ML concepts, microcontrollers, and IoT systems is highly recommended but not mandatory.
 
 #### Grading
-- Five programming assignments (50%)
+- Five programming assignments (10 x 5 = 50%)
 - Paper presentation and discussion (10%)
 - Course project (40%)
+
+#### Lab session and Hardware Platforms
+
+There will be lab sessions every week (~1.5 hours) where students will learn how to program embedded systems using MicoPython and implement efficient ML/DL models that can be directly deployed on microcontrollers and IoT Edge devices. The [Arduino Tiny Machine Learning Kit](https://store.arduino.cc/products/arduino-tiny-machine-learning-kit) will be the main development board used in most sessions and for completing coding assignments. In addition, the following hardware platforms will also be provided, especially for completing the course project.
+ - Paspberry Pi
+ - [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)
+ - [Arduino Nicla family boards](https://www.arduino.cc/pro/hardware-nicla-family/)
+   - [Nicla Vision](https://www.arduino.cc/pro/hardware-product-nicla-vision/)
+   - [Nicla Voice](https://www.arduino.cc/pro/hardware-nicla-voice/)
+   - [Nicla Sense ME](https://www.arduino.cc/pro/hardware-nicla-sense-me/)
+ - [NVIDIA Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano)
+   
+   ![image](https://github.com/user-attachments/assets/fc34e886-6c18-4e59-8c18-7c1e5fb7ce49)
   
 
 #### Text books and References
@@ -71,7 +84,7 @@ This course heavily focuses on programming embedded systems using Arduino C and 
  - TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden and Daniel Situnayake.
  - Hands-on TinyML: Harness the power of Machine Learning on the edge devices (2023) by Rohan Banerjee.
  - Dive Into Deep Learning (2023), Aston Zhang, Mu Li, Alexander J. Smola, Zachary Lipton.
- - Recent research articles
+ - Research articles.
 
 
 #### Similar courses 
