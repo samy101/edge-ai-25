@@ -4,6 +4,38 @@ title: CP 330 - Edge AI
 subtitle: Indian Institute of Science
 # cover-img: https://www.imec-int.com/sites/default/files/2020-07/AI-roadmap--the-future-of-edge-AI.jpg
 ---
+
+## Course Instructor  
+
+<table cellspacing="0" cellpadding="0" style="text-align: left; vertical-align: top;">
+  <tr>
+    <td style="padding-right: 20px; vertical-align: top;">
+      <h3>Pandarsamy Arjunan</h3>
+      Assistant Professor<br>
+      Robert Bosch Centre for Cyber Physical Systems (RBCCPS)<br>
+      Indian Institute of Science, Bangalore, India.
+    </td>
+    <td style="vertical-align: top;">
+      <h3>Teaching Assistants</h3>
+      <ul>
+        <li>Pandarsamy Arjunan</li>
+        <li>Pandarsamy Arjunan</li>
+        <li>Pandarsamy Arjunan</li>
+        <li>Pandarsamy Arjunan</li>
+        <li>Pandarsamy Arjunan</li>
+        <li>Pandarsamy Arjunan</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+- Pandarsamy Arjunan, Assistant Professor, Robert Bosch Centre for Cyber Physical Systems (RBCCPS), Indian Institute of Science, Bangalore, India
+
+## Teaching Assistants 
+- safda
+- sadfas 
+
+
 ## Course Description  
 ---  
 Edge AI is a rapidly growing field that combines artificial intelligence (AI) with edge computing. This integration allows AI models to run directly on edge devices—such as IoT sensors, smartphones, cameras, and microcontrollers—reducing reliance on cloud computing while enabling real-time processing and decision-making. In this course, students will learn the fundamentals of Edge AI, along with techniques and tools for implementing efficient AI models using various model compression and optimization methods. They will also gain hands-on experience in designing, developing, and deploying Edge AI applications. Additionally, the course covers advanced topics such as federated learning, sustainable AI, and responsible AI practices, with a focus on their practical applications in deploying Edge AI systems. By the end of the course, students will have the skills to design, develop, and implement end-to-end Edge AI systems for real-world applications across various industries.
@@ -45,8 +77,3 @@ This course heavily focuses on programming embedded systems using Arduino C and 
 3.	TinyML and Efficient Deep Learning Computing (MIT)
 4.	ESE3600: Tiny Machine Learning (UPenn)  
 5.	edX tinyML Specialization (Harvard University)
-
-#### Acknowledgment
----
-**We acknowledge the [tinyML Courseware](https://github.com/tinyMLx/courseware) for sharing usefull materials which are partically adoped in this course.**
-
