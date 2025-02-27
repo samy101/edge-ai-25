@@ -6,38 +6,37 @@ subtitle: Indian Institute of Science
 ---
 ## Course Description  
 ---  
-This course provides students with the fundamentals of edge AI and hands-on experience in designing end-to-end AI systems for resource-constrained computing devices, such as microcontrollers It aims to equip students with knowledge of hardware systems and AI model optimization techniques and tools for IoT edge devices. After completing the course, students will have the skills to implement AI models, such as computer vision, on embedded/edge devices for various real-world applications, including smart cities, sustainability, healthcare, and agriculture.  
+Edge AI is a rapidly growing field that combines artificial intelligence (AI) with edge computing. This integration allows AI models to run directly on edge devices—such as IoT sensors, smartphones, cameras, and microcontrollers—reducing reliance on cloud computing while enabling real-time processing and decision-making. In this course, students will learn the fundamentals of Edge AI, along with techniques and tools for implementing efficient AI models using various model compression and optimization methods. They will also gain hands-on experience in designing, developing, and deploying Edge AI applications. Additionally, the course covers advanced topics such as federated learning, sustainable AI, and responsible AI practices, with a focus on their practical applications in deploying Edge AI systems. By the end of the course, students will have the skills to design, develop, and implement end-to-end Edge AI systems for real-world applications across various industries.
 
-## Instructor
-Pandarasamy Arjunan (Samy)  
-Assistant Professor  
-Robert Bosch Centre for Cyber Physical Systems (RBCCPS)  
-Indian Institute of Science, Bangalore, India.  
+The topics to be covered includes: 
 
-## Topics
----
-* Introduction to Edge AI
-* ML/AI Algorithms and Computer Vision Fundamentals
-* Edge AI Hardware and Accelerators
+* Introduction to the Internet of Things (IoT) and Edge AI
+* IoT Devices and Embedded Systems Programming
+* Fundamentals of AI, Machine Learning, Deep Learning, and Computer Vision
 * Edge AI Software Frameworks and Libraries
-* Model Optimization and Pruning Techniques and Tools
-* Deployment of Edge AI Systems and Case Studies
+* Model Optimization and Compression Techniques (Quantization, Pruning, Knowledge Distillation, etc.)
+* Deployment of efficient ML models on embedded boards
+* Federated Learning
+* Sustainable AI
+* Applications: Magic Wand, Wake Word Detection, and Visual Wake Word Detection
+* Case Studies: Smart Cities, Smart Agriculture, and Smart Healthcare
+
 
 ### Prerequisites
-
-Proficiency in Python programming is essential, while C programming and a basic understanding of AI/ML, microcontrollers, and IoT systems would be a plus.
+This course heavily focuses on programming embedded systems using Arduino C and MicroPython, as well as implementing efficient machine learning (ML) models with libraries such as TensorFlow Lite. Therefore, proficiency in Python and C programming is essential. A basic understanding of AI/ML concepts, microcontrollers, and IoT systems is also recommended to fully benefit from the course.
 
 ### Grading
-- 3 programming assignments (45%)
-- 3 quizzes (15%)
+- Five programming assignments (50%)
+- Paper presentation and discussion (10%)
 - Course project (40%)
 
 ### Text books and references
- - TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden and Daniel Situnayake TinyML Cookbook (2022) by Gian Marco Iodice
+ - [Machine Learning Systems](https://mlsysbook.ai/) by Vijay Janapa Reddi, Harvard University.
+ - TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden and Daniel Situnayake TinyML Cookbook (2022) by Gian Marco Iodice.
  - AI at the Edge: Solving Real-World Problems with Embedded Machine Learning (2022) by Daniel Situnayake and Jenny Plunkett.
- - Deep Learning on Microcontrollers: Learn how to develop embedded AI applications using TinyML (2023) by Atul Krishna Gupta and Dr. Siva Prasad Nandyala
- - TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden and Daniel Situnayake
- - Hands-on TinyML: Harness the power of Machine Learning on the edge devices (2023) by Rohan Banerjee
+ - Deep Learning on Microcontrollers: Learn how to develop embedded AI applications using TinyML (2023) by Atul Krishna Gupta and Dr. Siva Prasad Nandyala.
+ - TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers (2020) by Pete Warden and Daniel Situnayake.
+ - Hands-on TinyML: Harness the power of Machine Learning on the edge devices (2023) by Rohan Banerjee.
  - Dive Into Deep Learning (2023), Aston Zhang, Mu Li, Alexander J. Smola, Zachary Lipton.
 
 ### Similar courses: 
