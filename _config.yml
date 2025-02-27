@@ -20,9 +20,9 @@ author: Pandarasamy Arjunan
 ###############################################
 
 navbar-links:
-  # Course Projects: 
-  #   - Spring 2023: "/projects_s23"
-  #   - Fall 2023: "/projects_f23"
+  Course Projects: 
+     - Spring 2023: "/projects_s23"
+     - Fall 2023: "/projects_f23"
   Resources:
     - Tensorflow Lite: "https://www.tensorflow.org/lite"
     - Tensorflow Lite Micro: "https://www.tensorflow.org/lite/microcontrollers"
@@ -133,8 +133,8 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FFFFFF"
-navbar-text-col: "#404040"
+navbar-col: "#1B374C"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#FFFFFF"
 page-col: "#FFFFFF"
 text-col: "#404040"
