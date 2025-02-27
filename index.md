@@ -9,7 +9,21 @@ subtitle: Indian Institute of Science
 ---  
 Edge AI is a rapidly growing field that combines artificial intelligence (AI) with edge computing. This integration allows AI models to run directly on edge devices—such as IoT sensors, smartphones, cameras, and microcontrollers—reducing reliance on cloud computing while enabling real-time processing and decision-making. In this course, students will learn the fundamentals of Edge AI, along with techniques and tools for implementing efficient AI models using various model compression and optimization methods. They will also gain hands-on experience in designing, developing, and deploying Edge AI applications. Additionally, the course covers advanced topics such as federated learning, sustainable AI, and responsible AI practices, with a focus on their practical applications in deploying Edge AI systems. By the end of the course, students will have the skills to design, develop, and implement end-to-end Edge AI systems for real-world applications across various industries.
 
-### Instructor  
+The topics covered in this course are:
+* Introduction to the Internet of Things (IoT) and Edge AI
+* IoT Devices and Embedded Systems Programming
+* Fundamentals of AI, Machine Learning, Deep Learning, and Computer Vision
+* Edge AI Software Frameworks and Libraries
+* Model Optimization and Compression Techniques (Quantization, Pruning, Knowledge Distillation, etc.)
+* Deployment of efficient ML models on embedded boards
+* Federated Learning
+* Sustainable AI
+* Applications: Magic Wand, Wake Word Detection, and Visual Wake Word Detection
+* Case Studies: Smart Cities, Smart Agriculture, and Smart Healthcare
+
+
+### Instructor
+
 
 <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; text-align: left; vertical-align: top; border: none;">
   <tr>
@@ -35,21 +49,9 @@ Edge AI is a rapidly growing field that combines artificial intelligence (AI) wi
   </tr>
 </table>
 
-### Course Logistics and Contents
+
+### Course Logistics
 ---
-
-#### Topics
-* Introduction to the Internet of Things (IoT) and Edge AI
-* IoT Devices and Embedded Systems Programming
-* Fundamentals of AI, Machine Learning, Deep Learning, and Computer Vision
-* Edge AI Software Frameworks and Libraries
-* Model Optimization and Compression Techniques (Quantization, Pruning, Knowledge Distillation, etc.)
-* Deployment of efficient ML models on embedded boards
-* Federated Learning
-* Sustainable AI
-* Applications: Magic Wand, Wake Word Detection, and Visual Wake Word Detection
-* Case Studies: Smart Cities, Smart Agriculture, and Smart Healthcare
-
 
 #### Prerequisites
 This course heavily focuses on programming embedded systems using Arduino C and MicroPython, as well as implementing efficient machine learning (ML) models with libraries such as TensorFlow Lite. Therefore, proficiency in Python and C programming is essential. A basic understanding of AI/ML concepts, microcontrollers, and IoT systems is also recommended to fully benefit from the course.
@@ -78,8 +80,3 @@ This course heavily focuses on programming embedded systems using Arduino C and 
 3.	TinyML and Efficient Deep Learning Computing (MIT)
 4.	ESE3600: Tiny Machine Learning (UPenn)  
 5.	edX tinyML Specialization (Harvard University)
-
-
-#### Course Schedule
----  
-
