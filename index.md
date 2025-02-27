@@ -2,6 +2,7 @@
 layout: page
 title: CP 330 - Edge AI
 subtitle: Indian Institute of Science
+cover-img: assets/img/workout_5.jpg
 ---
 ## Course Description  
 ---  
