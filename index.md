@@ -37,8 +37,8 @@ Edge AI is a rapidly growing field that combines artificial intelligence (AI) wi
 
 ### Course Logistics and Contents
 ---
+
 #### Topics
-The topics to be covered includes: 
 * Introduction to the Internet of Things (IoT) and Edge AI
 * IoT Devices and Embedded Systems Programming
 * Fundamentals of AI, Machine Learning, Deep Learning, and Computer Vision
@@ -50,13 +50,16 @@ The topics to be covered includes:
 * Applications: Magic Wand, Wake Word Detection, and Visual Wake Word Detection
 * Case Studies: Smart Cities, Smart Agriculture, and Smart Healthcare
 
+
 #### Prerequisites
 This course heavily focuses on programming embedded systems using Arduino C and MicroPython, as well as implementing efficient machine learning (ML) models with libraries such as TensorFlow Lite. Therefore, proficiency in Python and C programming is essential. A basic understanding of AI/ML concepts, microcontrollers, and IoT systems is also recommended to fully benefit from the course.
+
 
 #### Grading
 - Five programming assignments (50%)
 - Paper presentation and discussion (10%)
 - Course project (40%)
+  
 
 #### Text books and References
  - [Machine Learning Systems](https://mlsysbook.ai/) by Vijay Janapa Reddi, Harvard University.
@@ -68,12 +71,14 @@ This course heavily focuses on programming embedded systems using Arduino C and 
  - Dive Into Deep Learning (2023), Aston Zhang, Mu Li, Alexander J. Smola, Zachary Lipton.
  - Recent research articles
 
+
 #### Similar courses 
 1.	NVIDIA - Edge AI and Robotics Teaching Kit
 2.	Intel - AI on the Edge with Computer Vision 
 3.	TinyML and Efficient Deep Learning Computing (MIT)
 4.	ESE3600: Tiny Machine Learning (UPenn)  
 5.	edX tinyML Specialization (Harvard University)
+
 
 #### Course Schedule
 ---  
