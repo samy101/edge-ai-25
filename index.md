@@ -88,8 +88,12 @@ There will be lab sessions every week (~1.5 hours) where students will learn how
 
 
 #### Similar courses 
-1.	NVIDIA - Edge AI and Robotics Teaching Kit
-2.	Intel - AI on the Edge with Computer Vision 
-3.	TinyML and Efficient Deep Learning Computing (MIT)
-4.	ESE3600: Tiny Machine Learning (UPenn)  
-5.	edX tinyML Specialization (Harvard University)
+1. [edX tinyML Specialization (Harvard University)](https://www.edx.org/certificates/professional-certificate/harvardx-tiny-machine-learning)
+2. [CS249r: Tiny Machine Learning (Harvard University)](https://sites.google.com/g.harvard.edu/tinyml/)
+3. [ESE 3600: Tiny ML (University of Pennsylvania)](https://tinyml.seas.upenn.edu/)
+4. [TinyML and Efficient Deep Learning Computing (MIT)](https://hanlab.mit.edu/courses/2024-fall-65940)
+5. [Embedded Deep Learning & TinyML (Carnegie Mellon University)](https://z4ziad.github.io/mbed_dl_bak/mbed_dl/)
+6. [NVIDIA - Edge AI and Robotics Teaching Kit](https://developer.nvidia.com/edge-ai-robotics-teaching-kit-syllabus)
+7. [Intel - AI on the Edge with Computer Vision](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-ai-on-the-edge-computer-vision.html)
+
+
