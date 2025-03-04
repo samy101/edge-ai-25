@@ -5,67 +5,55 @@ subtitle: Indian Institute of Science | January 2025
 full-width: true
 ---
 
-### Course Schedule  
----  
 
 <div style="display: flex; justify-content: center;">
-    <table style="border-collapse: collapse; width: 80%; text-align: left;">
+    <h3> Course Schedule </h3>
+    <hr>
+    <table style="border-collapse: collapse; width: 90%; text-align: left;">
         <tr>
-            <th style="border: 1px solid #ddd; padding: 10px;">Week</th>
-            <th style="border: 1px solid #ddd; padding: 10px;">Contents</th>
-        </tr>
+            <th style="border: 1px solid #ddd; padding: 10px;">Date</th>
+            <th style="border: 1px solid #ddd; padding: 10px;">Topics</th>
+            <th style="border: 1px solid #ddd; padding: 10px;">Readings</th>            
+        </tr>        
+        <!-- Week 1 -->
         <tr>
-            <td style="border: 1px solid #ddd; padding: 10px;"><b>Week 1</b></td>
+            <td style="border: 1px solid #ddd; padding: 10px;"> Jan 7 </td>
             <td style="border: 1px solid #ddd; padding: 10px;">
-                <b>Topic:</b> <a href="slides/week1.pdf">Introduction to Machine Learning</a><br>
-                <b>Readings:</b> Chapter 1 of "Machine Learning Basics"<br>
-                <b>Tutorial:</b> Implementing Linear Regression
+                <b>Lecture 1: Introduction</b> <br>
+                <a href="contents/lectures/Lec01-introduction.pdf">slides</a>                
             </td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ddd; padding: 10px;"><b>Week 2</b></td>
             <td style="border: 1px solid #ddd; padding: 10px;">
-                <b>Topic:</b> <a href="slides/week2.pdf">Data Preprocessing & Feature Engineering</a><br>
-                <b>Readings:</b> Selected sections from "Feature Engineering for ML"<br>
-                <b>Tutorial:</b> Hands-on Data Cleaning in Pandas
+                Chapter 1 of "Machine Learning Basics"
             </td>
-        </tr>
+        </tr>        
         <tr>
-            <td style="border: 1px solid #ddd; padding: 10px;"><b>Week 3</b></td>
+            <td style="border: 1px solid #ddd; padding: 10px;"> Jan 9</td>
             <td style="border: 1px solid #ddd; padding: 10px;">
-                <b>Topic:</b> <a href="slides/week3.pdf">Supervised Learning: Decision Trees</a><br>
-                <b>Readings:</b> Chapter 3 of "Pattern Recognition"<br>
-                <b>Tutorial:</b> Implementing a Decision Tree from Scratch
+                <b>Lab 1: Introduction to Tiny Machine Learning Kit</b> <br>
+                <a href="contents/labs/labs/Lab01-TinyMLKit/">slides</a>                
             </td>
-        </tr>
+            <td style="border: 1px solid #ddd; padding: 10px;">                
+            </td>
+        </tr>        
+        <!-- Week 2 -->
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 10px;"> Jan 14 </td>
+            <td style="border: 1px solid #ddd; padding: 10px;">
+                <b>Lecture 2: Overview of Internet of Things</b> <br>
+                <a href="contents/lectures/Lec02-IoT.pdf">slides</a>                
+            </td>
+            <td style="border: 1px solid #ddd; padding: 10px;">
+                Chapter 1 of "Machine Learning Basics"
+            </td>
+        </tr>        
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 10px;"> Jan 16</td>
+            <td style="border: 1px solid #ddd; padding: 10px;">
+                <b>Lab 2: MicroPython</b> <br>
+                <a href="contents/labs/labs/Lab01-TinyMLKit/">slides</a>
+            </td>
+            <td style="border: 1px solid #ddd; padding: 10px;">                
+            </td>
+        </tr>      
     </table>
 </div>
-
-
-
-
-- **Week 1**: Lecture 1: Introduction
-  - safdasfd
-  - **Readings**
-    - asdfasdf
-    - asdfasfd
-
-- **Week 1**: Introduction
-  - safdasfd
-
-- **Week 1**: Introduction
-  - safdasfd
-
-
-| Week  |
-|-------|
-| **Week 1**  <br>
-**Topic:** [Introduction to Machine Learning](slides/week1.pdf)  <br>
-**Readings:** Chapter 1 of "Machine Learning Basics"  <br>
-**Tutorial:** Implementing Linear Regression |
-| **Week 2** | **Topic:** [Data Preprocessing & Feature Engineering](slides/week2.pdf)  
-**Readings:** Selected sections from "Feature Engineering for ML"  
-**Tutorial:** Hands-on Data Cleaning in Pandas |
-| **Week 3** | **Topic:** [Supervised Learning: Decision Trees](slides/week3.pdf)  
-**Readings:** Chapter 3 of "Pattern Recognition"  
-**Tutorial:** Implementing a Decision Tree from Scratch |
