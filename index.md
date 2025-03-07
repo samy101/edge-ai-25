@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CP 330 - Edge AI
-subtitle: Indian Institute of Science | January 2025 
+title: Edge AI
+subtitle: CP 330 | Indian Institute of Science | January 2025 
 # cover-img: https://www.imec-int.com/sites/default/files/2020-07/AI-roadmap--the-future-of-edge-AI.jpg
 ---
 
