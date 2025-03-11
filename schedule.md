@@ -23,6 +23,7 @@ subtitle: CP 330 | January 2025 | Indian Institute of Science
                 <a href="contents/lectures/Lec01-introduction.pdf">slides</a>                
             </td>
             <td style="border: 1px solid #ddd; padding: 10px;">                
+                Edge Intelligence: Paving the Last Mile of Artificial Intelligence With Edge Computing (<a href="https://ieeexplore.ieee.org/document/8736011" target="_blank">pdf</a>)
             </td>
         </tr>        
         <tr>
