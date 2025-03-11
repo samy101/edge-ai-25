@@ -1,13 +1,13 @@
 ---
 layout: page
-title: CP 330 - Edge AI
-subtitle: Course code - CP 330 | January 2025 | [RBCCPS, Indian Institute of Science](https://cps.iisc.ac.in/)
+title: Edge AI
+subtitle: CP 330 | January 2025 | Indian Institute of Science
 # full-width: true
 ---
 
+### Course Schedule
+
 <div style="display: flex; justify-content: center;">
-    <h3> Course Schedule </h3>
-    <hr>
     <table style="border-collapse: collapse; width: 100%; text-align: left;">
         <tr>
             <th style="border: 1px solid #ddd; padding: 10px;">Date</th>
