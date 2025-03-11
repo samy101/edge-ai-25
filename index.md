@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Edge AI
-subtitle: CP 330 | Indian Institute of Science | January 2025 
+subtitle: Course code - CP 330 | January 2025 | [RBCCPS, Indian Institute of Science](https://cps.iisc.ac.in/)
 # cover-img: https://www.imec-int.com/sites/default/files/2020-07/AI-roadmap--the-future-of-edge-AI.jpg
 ---
 
