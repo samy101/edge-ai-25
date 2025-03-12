@@ -7,7 +7,7 @@ subtitle: Indian Institute of Science
 ### Coding Assignments
 --- 
 
-- [Assignment #1: Sensor Data Collection with On-Board Feature Extraction](Assignment-1-Sensor-Data-Collection-with-On-Board-Feature-Extraction)
+- [Assignment #1: Sensor Data Collection with On-Board Feature Extraction](#Assignment-1-Sensor-Data-Collection-with-On-Board-Feature-Extraction)
 
 
 #### Assignment 1: Sensor Data Collection with On-Board Feature Extraction
