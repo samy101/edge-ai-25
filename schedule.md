@@ -9,22 +9,21 @@ subtitle: CP 330 | January 2025 | Indian Institute of Science
 ---
 
 #### Week 1 (Jan 7 & 9)
-- **Lecture 1: Introduction** ([slides](contents/lectures/Lec01-introduction.pdf))  
+- **Lecture 1: Introduction**
   - *Edge Intelligence: Paving the Last Mile of Artificial Intelligence With Edge Computing* ([pdf](https://ieeexplore.ieee.org/document/8736011))  
-  - *A Survey on Edge Computing: Principles, Challenges and Future Directions* ([pdf](https://arxiv.org/abs/1906.02009))  
-
-- **Lab 1: Introduction to Tiny Machine Learning Kit** ([slides](contents/labs/Lab01-TinyMLKit/))  
-  - *TinyML: Machine Learning on Ultra-Low-Power Devices* ([book](https://www.oreilly.com/library/view/tinyml/9781492052036/))  
-
+  
+- **Lab 1: Introduction to Tiny Machine Learning Kit** 
+  
 ---
 
 #### Week 2 (Jan 14 & 16)
 - **Lecture 2: Introduction to Internet of Things (IoT) and Edge Analytics** ([slides](contents/lectures/Lec02-IoT.pdf))  
-  - *Internet of Things: Principles and Paradigms* ([book](https://www.elsevier.com/books/internet-of-things/9780128053959))  
-  - *Fog Computing: A Comprehensive Survey* ([pdf](https://arxiv.org/abs/1901.05712))  
-
-- **Lab 2: MicroPython** ([slides](contents/labs/Lab02-TinyMLKit/))  
-  - *MicroPython for the Internet of Things* ([book](https://www.oreilly.com/library/view/micropython-for-the/9781484266486/))  
+- **Lab 2: MicroPython Programming for Arduino** ([slides](contents/labs/Lab02-MicroPython/))  
+  - *MicroPython for Arduino* ([Link](https://docs.arduino.cc/micropython))
+  - *MicroPython 101 course* ([Link](https://docs.arduino.cc/micropython/micropython-course/course/introduction-arduino/))
+  - *Arduino Lab for MicroPython* ([Link](https://labs.arduino.cc/en/labs/micropython)))
+  - *MicroPython examples for Nano BLE Sense* ([Link](https://docs.arduino.cc/micropython/board-examples/nano-ble-sense/))
+  - *MicroPython libraries* ([Link](https://docs.micropython.org/en/latest/library/index.html)) 
 
 ---
 
@@ -33,34 +32,35 @@ subtitle: CP 330 | January 2025 | Indian Institute of Science
   - *Embedded Systems: Introduction to the ARM Cortex-M Microcontrollers* ([book](https://www.elsevier.com/books/embedded-systems/9780128201282))  
 
 - **Lab 3: MicroPython and OpenMV** ([slides](contents/labs/Lab03-OpenMV/))  
-    - *Computer Vision on Edge Devices with OpenMV* ([article](https://openmv.io/))  
-
+    - *OpenMV Firmware & IDE* ([Link](https://openmv.io/pages/download))
+    - *OpenMV MicroPython libraries* ([Link](https://docs.openmv.io/library/index.html))
+ 
 ---
 
 #### Week 4 (Jan 28 & 30)
 - **Lecture 4: Embedded ML and Challenges** ([slides](contents/lectures/Lec04-EmbeddedML.pdf))  
     - *TinyML: The Next AI Revolution* ([article](https://towardsdatascience.com/tinyml-the-next-ai-revolution-bb4b4307bcaf)) 
-
 - **Lab 4: Sensor Data Collection (IMU)** ([slides](contents/labs/Lab04-DataCollection/))  
-    - *Understanding IMU Sensors for Embedded Applications* ([pdf](https://arxiv.org/abs/2012.07055))  
 
 ---
 
 #### Week 5 (Feb 4 & 6)
 
 - **Lecture 5: Introduction to AI and ML** ([slides](contents/lectures/Lec05-AI.pdf))  
-  - *An Introduction to Machine Learning* ([pdf](https://arxiv.org/abs/1911.00623))  
-
+  - *Chapter 1 from the book Machine Learning Systems* ([Link](https://mlsysbook.ai/contents/core/introduction/introduction.html))
+  - *Decision trees - A friendly introduction by Luis Serrano* ([Link](https://mlsysbook.ai/contents/core/introduction/introduction.html))
+  
 - **Lab 5: Implementing Decision Trees for Activity Detection** ([slides](contents/labs/Lab05-DecisionTree/))  
-  - *Decision Trees in Machine Learning* ([article](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052))  
 
 ---
 
 #### Week 6 (Feb 11 & 13)
 
 - **Lecture 6: Artificial Neural Networks** ([slides](contents/lectures/Lec06-NeuralNetworks.pdf))  
-  - *Deep Learning* ([book](https://www.deeplearningbook.org/))  
-
+  - *DL Primer from the book Machine Learning Systems* ([Link](https://mlsysbook.ai/contents/core/dl_primer/dl_primer.html))
+  - *Linear Neural Networks for Regression from the Book Dive into Deep Learning* ([Link](https://mlsysbook.ai/contents/core/dl_primer/dl_primer.html))
+*
+  
 - **Lab 6: Deploying Decision Tree for Real-Time Activity Detection** ([slides](contents/labs/Lab06-DecisionTreeDeployment/))   - *Real-Time AI: Challenges and Opportunities* ([pdf](https://arxiv.org/abs/2103.15004))  
 
 ---
