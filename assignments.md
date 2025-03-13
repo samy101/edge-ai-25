@@ -103,7 +103,7 @@ This assignment is due on Thursday, February 6, at 11:59 PM. Late submissions wi
 
 Smartwatches and fitness trackers have revolutionized the healthcare and fitness industry by enabling real-time monitoring of physical activities such as walking, jogging, and cycling. Have you ever wondered how these devices detect different activities in real time? They use built-in motion sensors, such as accelerometers and gyroscopes, to collect raw movement data, which is then processed by machine learning models running on the device to classify various activities in real time.
 
-![alt text](/assets/img/Assignment_2_image.png "Flowchart of activity detection")
+![Flowchart of activity detection](/assets/img/Assignment_2_image.png)
 
 Source: [image link](https://github.com/andresquintanilla/fitbit-activity-recognition/tree/master)
 
