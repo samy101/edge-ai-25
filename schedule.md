@@ -74,26 +74,26 @@ subtitle: CP 330 | January 2025 | Indian Institute of Science
   - *Chapters 7-8 from the Book Dive into Deep Learning* ([Link](https://d2l.ai/chapter_convolutional-neural-networks/index.html)) 
   
 - **Lecture 8: Model Optimization and Efficiency Metrics** ([slides](/contents/lectures/Lec08-EfficiencyMetrcis.pdf))  
-  - *Chapter 9: Efficient AI from the book Machine Learning Systems ([Link](https://mlsysbook.ai/contents/core/efficient_ai/efficient_ai.html)
+  - *Chapter 9: Efficient AI from the book Machine Learning Systems* ([Link](https://mlsysbook.ai/contents/core/efficient_ai/efficient_ai.html)
 
 ---
 
 #### Week 9 (Mar 4 & 6)
 - **Lecture 10: Introduction to Quantization** ([slides](/contents/lectures/Lec09-Quantization1.pdf))
-- *Chaper 10: Model Optimizations from the book Machine Learning Systems ([Link](https://mlsysbook.ai/contents/core/optimizations/optimizations.html)  
+- *Chaper 10: Model Optimizations from the book Machine Learning Systems* ([Link](https://mlsysbook.ai/contents/core/optimizations/optimizations.html)  
 - **Lab 9: Model Parameters and Efficiency Metrics of ANN and CNN Models** ([slides](/contents/labs/Lab09-EfficiencyMetrics/))
   
 ---
 
 #### Week 10 (Mar 11 & 13)
 - **Lecture 10: Advanced Quantization** ([slides](/contents/lectures/Lec10-Quantization2.pdf))
-  - *Chaper 10: Model Optimizations from the book Machine Learning Systems ([Link](https://mlsysbook.ai/contents/core/optimizations/optimizations.html)
+  - *Chaper 10: Model Optimizations from the book Machine Learning Systems* ([Link](https://mlsysbook.ai/contents/core/optimizations/optimizations.html)
 - **Lab 10: Quantization** ([slides](/contents/labs/Lab10-Quantization/))
   
 
 #### Week 11 (Mar 18 & 20)
 - **Lecture 11: Pruning** ([slides](/contents/lectures/Lec11-Pruning.pdf))
-  - *Chaper 10: Model Optimizations from the book Machine Learning Systems ([Link](https://mlsysbook.ai/contents/core/optimizations/optimizations.html)
+  - *Chaper 10: Model Optimizations from the book Machine Learning Systems* ([Link](https://mlsysbook.ai/contents/core/optimizations/optimizations.html)
 - **Lab 11: Prunig** ([slides](/contents/labs/Lab11-Pruning/))
  ---    
  
