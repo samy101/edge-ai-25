@@ -19,9 +19,11 @@ subtitle: Indian Institute of Science
 
 As you know, the Arduino Nano BLE Sense board includes a built-in `LSM9DS1` IMU module, which features a `3D accelerometer, 3D gyroscope, and 3D magnetometer`. These sensors measure linear acceleration, rotational velocity, and magnetic field to determine the device's orientation. Continuous measurements from these sensors can be used for various applications, including human activity detection, in realtime. However, raw IMU sensor data is often noisy and highly sensitive to small changes. Therefore, it is necessary to extract meaningful features over a moving time window before implementing machine learning models for real-time activity detection. 
 
-![image](https://github.com/user-attachments/assets/57a8207d-21fe-473e-8221-ba64467826de)
+![image](https://github.com/user-attachments/assets/dab434b9-7535-4803-8e82-150b86602c2e) 
 
-Source: [image link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FExample-of-acceleration-data-from-IMU_fig5_350865965&psig=AOvVaw2vZSvhx0Gr_Cf1he2RPirh&ust=1741949316946000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiPj_LxhowDFQAAAAAdAAAAABAg)
+**Figure 1: IMU sensors of Arduino Nano**
+
+Source: [image link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fforum.arduino.cc%2Ft%2Fble-sense-ahrs%2F636949&psig=AOvVaw1QlrxYEMvPXH13E_f85Itp&ust=1741950961419000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiDsKT3howDFQAAAAAdAAAAABAE)
 
 #### Assignment Objective:
 
@@ -104,6 +106,8 @@ This assignment is due on Thursday, February 6, at 11:59 PM. Late submissions wi
 Smartwatches and fitness trackers have revolutionized the healthcare and fitness industry by enabling real-time monitoring of physical activities such as walking, jogging, and cycling. Have you ever wondered how these devices detect different activities in real time? They use built-in motion sensors, such as accelerometers and gyroscopes, to collect raw movement data, which is then processed by machine learning models running on the device to classify various activities in real time.
 
 ![Flowchart of activity detection](/assets/img/Assignment_2_image.png)
+
+**Figure 2: Flowchart of activity detection**
 
 Source: [image link](https://github.com/andresquintanilla/fitbit-activity-recognition/tree/master)
 
