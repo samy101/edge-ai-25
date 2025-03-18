@@ -11,6 +11,8 @@ subtitle: Indian Institute of Science
 
 ➤ [Assignment 2: End-to-end Development of an Activity Detection app](#assignment-2-end-to-end-development-of-an-activity-detection-app)
 
+➤ [Assignment 3: Post-Training Quantization](#assignment-3-post-training-quantization)
+
 ---
 
 ### Assignment 1: Sensor Data Collection with On-Board Feature Extraction
@@ -161,5 +163,32 @@ You are required to submit the following files:
 
 m2cgen - [github-link](https://github.com/BayesWitnesses/m2cgen)
 
+### Assignment 3: Post-Training Quantization
 
+#### Instructions
+
+In this assignment, you are required to analyze the efficiency metrics of computer vision models before and after applying post-training quantization techniques using TensorFlow.  
+
+#### Objective: 
+
+The objective of this assignment is to implement and understand different post-training quantization techniques and analyze the model's performance and efficiencies before and after quantization.  
+
+#### Specific Tasks: 
+
+  1. Implement MobileNetV2 models for image classification using the Rock-Paper-Scissors dataset (or any other dataset). You can train the network from scratch or fine-tune the MobileNetV2 model (using ImageNet weights) by training only the top 10 layers along with custom classifier layers corresponding to the number of classes in the given dataset. You may follow standard deep learning model development practices such as image augmentation, train/validation/test set split ratios, number of epochs, optimizers, evaluation metrics, etc. Make sure the test accuracy is at least 75%. `(2 marks)`
+  2. Extract and analyze the compute and memory-related efficiency metrics of the trained model, both layer-wise and for the whole model, and measure the accuracy on the test dataset. `(2 marks)`
+  3. Apply post-training integer quantization `(int8)` and compare the model’s compute and memory-related metrics and accuracy with the original float32 model. Summarize your observations, including improvements in model size and inference time, as well as accuracy trade-offs. `(2 marks)` 
+  4. Implement n-bit clustering-based quantization to the original float32 model and calculate the compression ratio and quantization error after reconstructing it for the whole model and each layer. Summarize your observations. `(2 marks)`
+  5. Implement linear quantization `(int8 and int16)` to the original float32 model and calculate the compression ratio and quantization error after reconstructing it for the whole model and each layer. Summarize your observations. `(2 marks)` 
+
+#### Submission format: 
+
+Submit your code and analysis as a single Google Colab notebook `(.ipynb) file`.
+
+#### References:
+
+  1. [Rock Paper Scissors using MobileNetV2](https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_mobilenet_v2/rock_paper_scissors_mobilenet_v2.ipynb) - You can reuse this notebook for completing the first step. Modify the code as per your requirements. 
+  2. [LiteRT](https://ai.google.dev/edge/litert/models/post_training_integer_quant) - Post-training integer quantization
+  3. [Linear Quantization](https://github.com/tinyMLx/colabs/blob/master/3-4-3-PTQ.ipynb) - Post Training Quantization
+  4. [Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments) -  This repository contains the implementation of various CNN models for image classification and objection. One can use the MobileNetV2 model for object detection, instead of classification. 
 
