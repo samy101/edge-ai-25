@@ -13,6 +13,8 @@ subtitle: Indian Institute of Science
 
 ➤ [Assignment 3: Post-Training Quantization](#assignment-3-post-training-quantization)
 
+➤[Assignment 4: Custom Keyword Spotting (KWS)](#assignment-4-custom-keyword-spotting-kws)
+
 ---
 
 ### Assignment 1: Sensor Data Collection with On-Board Feature Extraction
@@ -168,8 +170,11 @@ m2cgen - [github-link](https://github.com/BayesWitnesses/m2cgen)
 #### Instructions
 
 In this assignment, you are required to analyze the efficiency metrics of computer vision models before and after applying post-training quantization techniques using TensorFlow.  
+![Comparison between quantization aware training and post training quantization](assets/img/quantization-1717572961046-compressed.png)
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fneptune.ai%2Fblog%2Fdeep-learning-model-optimization-methods&psig=AOvVaw3PznKwUFFJxsW6ch3Ub3pe&ust=1743960648546000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDD4vaUwIwDFQAAAAAdAAAAABBk)
+**Figure 3: Comparison between quantization-aware training and post-training quantization**
+
+Source: [image link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fneptune.ai%2Fblog%2Fdeep-learning-model-optimization-methods&psig=AOvVaw3PznKwUFFJxsW6ch3Ub3pe&ust=1743960648546000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDD4vaUwIwDFQAAAAAdAAAAABBk)
 
 #### Objective: 
 
@@ -201,7 +206,11 @@ Submit your code and analysis as a single Google Colab notebook `(.ipynb) file`.
 
 Keyword spotting (KWS) is a speech recognition task, where the goal is to detect specific keywords from an audio stream. This technology is widely used in voice-activated systems like smart assistants (e.g., Google Assistant, Amazon Alexa). In this assignment, you will develop an end-to-end keyword-spotting application that can recognize your name.  
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nandaras0103%2Fwhat-is-keyword-spotting-c06c3c44945c&psig=AOvVaw2O71OuaaozBNnu2bO4Lz6u&ust=1743962085210000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKD6r5-awIwDFQAAAAAdAAAAABAE)
+![Keyword Spotting](assets/img/KWS.png)
+
+**Figure 4: Keyword Spotting**
+
+Source: [image link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nandaras0103%2Fwhat-is-keyword-spotting-c06c3c44945c&psig=AOvVaw2O71OuaaozBNnu2bO4Lz6u&ust=1743962085210000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKD6r5-awIwDFQAAAAAdAAAAABAE)
 
 #### Assignment Steps 
 
