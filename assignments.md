@@ -169,6 +169,8 @@ m2cgen - [github-link](https://github.com/BayesWitnesses/m2cgen)
 
 In this assignment, you are required to analyze the efficiency metrics of computer vision models before and after applying post-training quantization techniques using TensorFlow.  
 
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fneptune.ai%2Fblog%2Fdeep-learning-model-optimization-methods&psig=AOvVaw3PznKwUFFJxsW6ch3Ub3pe&ust=1743960648546000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDD4vaUwIwDFQAAAAAdAAAAABBk)
+
 #### Objective: 
 
 The objective of this assignment is to implement and understand different post-training quantization techniques and analyze the model's performance and efficiencies before and after quantization.  
@@ -190,5 +192,43 @@ Submit your code and analysis as a single Google Colab notebook `(.ipynb) file`.
   1. [Rock Paper Scissors using MobileNetV2](https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/rock_paper_scissors_mobilenet_v2/rock_paper_scissors_mobilenet_v2.ipynb) - You can reuse this notebook for completing the first step. Modify the code as per your requirements. 
   2. [LiteRT](https://ai.google.dev/edge/litert/models/post_training_integer_quant) - Post-training integer quantization
   3. [Linear Quantization](https://github.com/tinyMLx/colabs/blob/master/3-4-3-PTQ.ipynb) - Post Training Quantization
-  4. [Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments) -  This repository contains the implementation of various CNN models for image classification and objection. One can use the MobileNetV2 model for object detection, instead of classification. 
+  4. [Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments) -  This repository contains the implementation of various CNN models for image classification and objection. One can use the MobileNetV2 model for object detection, instead of classification.
 
+
+### Assignment 4: Custom Keyword Spotting (KWS)
+
+#### Background 
+
+Keyword spotting (KWS) is a speech recognition task, where the goal is to detect specific keywords from an audio stream. This technology is widely used in voice-activated systems like smart assistants (e.g., Google Assistant, Amazon Alexa). In this assignment, you will develop an end-to-end keyword-spotting application that can recognize your name.  
+
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nandaras0103%2Fwhat-is-keyword-spotting-c06c3c44945c&psig=AOvVaw2O71OuaaozBNnu2bO4Lz6u&ust=1743962085210000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKD6r5-awIwDFQAAAAAdAAAAABAE)
+
+#### Assignment Steps 
+
+The assignment involves completing the following three steps: 
+
+**Step 1: Data Collection `(4 marks)`**
+
+  1. Record at least 200 samples of your name spoken clearly `(e.g., “Deepak”)` in various environments, with different background noises, at varying volumes, and speeds. If your name is longer, use a short name.
+  2. Store the audio recordings as .wav files. The duration of each file should be 1 second. Ensure that the audio files are of good quality and properly labeled.
+  3. Refer the speech_commands dataset for more details - [Tensorflow](https://www.tensorflow.org/datasets/catalog/speech_commands.)
+ 
+**Step 2: Model Development and Compression `(4 marks)`**
+
+Process the collected audio data, train a model to classify the keyword `(your name)`, and optimize the model for deployment. 
+
+**Step 3: Model Deployment and Demonstration `(3 marks)`** 
+
+Deploy the compressed model into Nano 33 BLE Sense by updating the default KWS app and then demonstrate the working of your application. 
+ 
+
+#### Submission
+
+All datasets, Jupyter Notebook for model development and compression, modified KWS app. 
+
+***Note: This is a lab-based assignment. You can complete the software setup, data collection, and model development before the lab session. The final demo should be shown during the lab session.***
+
+#### References:
+
+  1. Training Your Custom Dataset Keyword Spotting Model - [Colab Notebook](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/4-6-8-CustomDatasetKWSModel.ipynb)
+  2. KWS on Nicla Vision - [Tutorial](https://mlsysbook.ai/contents/labs/arduino/nicla_vision/kws/kws.html)
