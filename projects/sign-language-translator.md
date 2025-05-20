@@ -11,4 +11,4 @@ subtitle: Indian Institute of Science | January 2025
 ### 
 
 ### Demo
-![Demo](assets/img/sign-language-translator/demo.gif)
+![Demo](/assets/img/sign-language-translator/demo.gif)
