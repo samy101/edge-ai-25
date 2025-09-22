@@ -1,25 +1,25 @@
-# Real-Time Fruit Detection & Counting on Mobile Edge Devices
+---
+layout: page
+title: CP 330 - Edge AI
+subtitle: Indian Institute of Science | January 2025
+---
 
-## Abstract
-
-We present a turnkey pipeline for real-time multi-class fruit detection and counting on commodity smartphones. Leveraging a lightweight YOLOv8 model fine-tuned on a custom fruit dataset, we achieve 30–45 FPS on an Android Galaxy F41 via TensorFlow Lite and NNAPI/GPU delegates.
-
-Our end-to-end system includes two-phase transfer learning, quantization, and a modular Android app with live overlay and per-class counters, enabling offline, low-latency inference without external hardware.
+## Real-Time Fruit Detection & Counting
+---
 
 
-## Overview
+### Introduction
 
 Real-time fruit detection and counting using smartphone-based edge AI is crucial for numerous agricultural, retail, and nutritional applications. This report details our implementation of a compact yet powerful YOLOv8 model optimized for deployment on mobile edge devices.
 
-
-## Background and Motivation
+### Motivation
 
 Accurate fruit detection traditionally requires dedicated hardware, limiting accessibility and increasing costs. Leveraging smartphones as edge devices provides a scalable, cost-effective, and portable solution. This motivates our exploration of lightweight deep learning models and mobile optimization techniques.
 
 
-## Methodology
+### Methodology
 
-### Hardware Specifications
+**Hardware Specifications**
 
 We employed the Samsung Galaxy F41 smartphone. The specifications are listed below:
 
@@ -32,14 +32,14 @@ We employed the Samsung Galaxy F41 smartphone. The specifications are listed bel
 | Storage       | 128 GB UFS 2.1    |
 | Display       | 6.4" 2340×1080 Super AMOLED |
 
-### Software Tools
+**Software Tools**
 
 - Python 3.11, PyTorch, TensorFlow Lite, YOLOv8  
 - Android Studio (Java/Kotlin), Android NNAPI  
 - Google Colab (training), TensorFlow Lite Converter
 
 
-## Data Collection
+### Data Collection
 
 Our dataset comprised:
 
@@ -49,11 +49,11 @@ Our dataset comprised:
 Images were collected from various viewpoints, lighting conditions, and backgrounds to ensure robustness. Annotations were generated using **LabelImg**.
 
 
-## Model Development and Compression
+### Model Development and Compression
 
 We adopted **YOLOv8** for its efficient CSPDarknet backbone and PANet-based feature fusion.
 
-### Training and Fine-Tuning
+##### Training and Fine-Tuning
 
 We employed a two-phase training strategy:
 
@@ -67,24 +67,24 @@ We employed a two-phase training strategy:
    - Trained for 30 epochs  
    - Learning rate: 0.001
 
-### Model Compression
+#### Model Compression
 
 - Original model size: **11.7 MB (float32)**  
 - After INT8 quantization: **2.1 MB**  
 - Outcome: Significant latency reduction with minimal accuracy loss
 
 
-## Model Deployment
+### Model Deployment
 
 The trained model was exported to TensorFlow Lite and integrated into an Android application. Real-time inference was achieved using **CameraX** and **NNAPI** delegates.
 
-### Inference Performance
+**Inference Performance**
 
 - Achieved **30–45 FPS** on the Galaxy F41  
 - Power consumption: Approximately **1 W**
 
 
-##  Prototype and Demonstration
+###  Prototype and Demonstration
 
 The Android application features:
 
@@ -94,9 +94,9 @@ The Android application features:
 
 ![Snapshot of the inference](fruits.png)
 
-## Results and Performance
+### Results and Performance
 
-###  Performance Metrics
+**Performance Metrics**
 
 | **Class**     | **Precision** | **Recall** | **mAP@50** | **mAP@50–95** |
 |---------------|---------------|------------|------------|----------------|
@@ -112,23 +112,21 @@ The Android application features:
 | **Average**   | **0.746**     | **0.707**  | **0.744**  | **0.592**      |
 
 
-##  Challenges and Workarounds
+### Challenges
 
-### Key Issues and Solutions
+**Key Issues and Solutions**
 
 - **Limited Dataset Size**  
-  ➤ Solved through data augmentation and transfer learning.
+  Solved through data augmentation and transfer learning.
 
 - **Accuracy Drop from Quantization**  
-  ➤ Mitigated with post-quantization fine-tuning.
+  Mitigated with post-quantization fine-tuning.
 
 - **Mobile Inference Latency**  
-  ➤ Resolved using NNAPI and GPU delegates for hardware acceleration.
+  Resolved using NNAPI and GPU delegates for hardware acceleration.
 
 
-## Novelty and Conclusion
-
-### Main Contributions
+### Novelty and Conclusion
 
 - Real-time (30–45 FPS) fruit detection using YOLOv8 on mobile devices  
 - Lightweight two-phase training and compression pipeline  
@@ -136,8 +134,9 @@ The Android application features:
 
 This work demonstrates a practical edge AI solution with applications in agriculture, retail, and nutrition. It shows how widely available smartphones can be leveraged for cost-effective, scalable AI deployments.
 
-## References
+### References
 
 - [TensorFlow Lite](https://www.tensorflow.org/lite)  
 - [YOLOv8 Documentation](https://docs.ultralytics.com)  
 - [Android NNAPI](https://developer.android.com/ndk/guides/neuralnetworks)
+
