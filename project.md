@@ -9,3 +9,4 @@ subtitle: Indian Institute of Science | January 2025
 
 ### List of Projects
 1. [Portable Sign-language Translater using MobilNet](projects/sign-language-translator.md)
+2. [Fruit Detection](projects/fruit_detection.md)
