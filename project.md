@@ -10,7 +10,7 @@ subtitle: Indian Institute of Science | January 2025
 ### List of Projects
 1. [Portable Sign-language Translater](projects/sign_lang.md)
 
-   <img src="assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="200">
+   <p><img src="assets/img/projects25/01-sign-language.png" alt="Sign Inference" style="width:200px;"></p>
 
 3. [Fruit Detection](projects/fruit_detection.md)
 
