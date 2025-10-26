@@ -12,7 +12,7 @@ subtitle: Indian Institute of Science | January 2025
 
    <img src="assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="200">
 
-3. [Fruit Detection](projects/fruit_detection.md) ![]()){ width = 200px } 
+3. [Fruit Detection](projects/fruit_detection.md)
 
    <img src="assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="100">
     
