@@ -10,21 +10,21 @@ subtitle: Indian Institute of Science | January 2025
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
-    <a href="/edge-ai-25/projects/sign_lang.md" style="text-decoration: none; color: inherit;">
+    <a href="/edge-ai-25/projects/sign_lang" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px;">
     </a>
-      <h3><a href="/edge-ai-25/projects/sign_lang.md">Portable Sign-language Translator</a></h3>
+      <h3><a href="/edge-ai-25/projects/sign_lang">Portable Sign-language Translator</a></h3>
       <p>A handheld device that translates sign language into speech using AI.</p>
-      <a href="/edge-ai-25/projects/sign_lang.md">Read more →</a>
+      <a href="/edge-ai-25/projects/sign_lang">Read more →</a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
-    <a href="/edge-ai-25/projects/fruit_detection.md" style="text-decoration: none; color: inherit;">
+    <a href="/edge-ai-25/projects/fruit_detection" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px;">
     </a>
-      <h3><a href="/edge-ai-25/projects/fruit_detection.md">Fruit Detection</a></h3>
+      <h3><a href="/edge-ai-25/projects/fruit_detection">Fruit Detection</a></h3>
       <p>An AI-powered system that identifies fruits from live camera feeds.</p>
-      <a href="/edge-ai-25/projects/fruit_detection.md">Read more →</a>
+      <a href="/edge-ai-25/projects/fruit_detection">Read more →</a>
     
   </div>
 
