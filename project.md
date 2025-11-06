@@ -139,9 +139,150 @@ subtitle: Indian Institute of Science | January 2025
     <a href="/edge-ai-25/projects/13-smart-irrigation">Read more →</a>
   </div>
 
-  <!-- 14–27 continue... -->
+  <!-- 14 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/14-charge-degrad-esti-battery" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/14-battery-charge-estimation.png" alt="Battery Charge Estimation" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/14-charge-degrad-esti-battery">Battery SoC Estimation using LSTM</a></h3>
+    <p>Predicts state of charge and degradation of batteries using LSTM models deployed on edge devices.</p>
+    <a href="/edge-ai-25/projects/14-charge-degrad-esti-battery">Read more →</a>
+  </div>
+
+  <!-- 15 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/15-compres-llms-prune" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/15-quantize-vs-model.png" alt="LLM Compression" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/15-compres-llms-prune">Compressing LLMs for Edge Devices</a></h3>
+    <p>Applies game theory to prune and compress large language models for efficient edge inference.</p>
+    <a href="/edge-ai-25/projects/15-compres-llms-prune">Read more →</a>
+  </div>
+
+  <!-- 16 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/16-ml-smart-manufacturing" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/16-AI-smart-manufacturing.png" alt="Smart Manufacturing" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/16-ml-smart-manufacturing">AI Pipeline for Smart Manufacturing</a></h3>
+    <p>Implements an end-to-end edge ML pipeline for real-time defect detection and process optimization.</p>
+    <a href="/edge-ai-25/projects/16-ml-smart-manufacturing">Read more →</a>
+  </div>
+
+  <!-- 17 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/17-anti-theft-alert" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/17-anti-theft.png" alt="Anti-Theft System" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/17-anti-theft-alert">Magnetometer-Driven Anti-Theft Alert</a></h3>
+    <p>Uses magnetic field sensing and edge processing to detect unauthorized movement of assets.</p>
+    <a href="/edge-ai-25/projects/17-anti-theft-alert">Read more →</a>
+  </div>
+
+  <!-- 18 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/18-blind-assistance" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/18-blind-assistance-hardware.png" alt="Blind Assistance Device" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/18-blind-assistance">AI-Powered Blind Assistance Device</a></h3>
+    <p>Provides auditory and haptic feedback for obstacle detection using embedded vision models.</p>
+    <a href="/edge-ai-25/projects/18-blind-assistance">Read more →</a>
+  </div>
+
+  <!-- 19 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/19-blind-navigation-aid" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/19-proximity-blind-nav.png" alt="Blind Navigation Aid" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/19-blind-navigation-aid">Object Recognition for Blind Navigation</a></h3>
+    <p>Enables navigation for the visually impaired with on-device object detection and proximity alerts.</p>
+    <a href="/edge-ai-25/projects/19-blind-navigation-aid">Read more →</a>
+  </div>
+
+  <!-- 20 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/20-object-identification" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/20-object-identification.png" alt="Object Identification" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/20-object-identification">Feature Estimation and Object Identification</a></h3>
+    <p>Performs object recognition and size estimation for industrial or robotic applications.</p>
+    <a href="/edge-ai-25/projects/20-object-identification">Read more →</a>
+  </div>
+
+  <!-- 21 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/21-driver-behaviour" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/21-drive-behaviour.png" alt="Driver Behaviour" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/21-driver-behaviour">Driver Drowsiness & Distraction Detection</a></h3>
+    <p>Monitors driver alertness and detects drowsiness using embedded vision AI.</p>
+    <a href="/edge-ai-25/projects/21-driver-behaviour">Read more →</a>
+  </div>
+
+  <!-- 22 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/22-urgent-care" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/22-urgent-care-hardware.png" alt="Urgent Care AI" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/22-urgent-care">UrgentCare-AI: Patient Monitoring</a></h3>
+    <p>Tracks patient vitals on edge devices and sends alerts for abnormal health conditions.</p>
+    <a href="/edge-ai-25/projects/22-urgent-care">Read more →</a>
+  </div>
+
+  <!-- 23 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/23-voice-authentication" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/23-voice-classification.png" alt="Voice Authentication" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/23-voice-authentication">Voice Authentication for Two-Wheelers</a></h3>
+    <p>Uses edge-based voice recognition for secure start and control of two-wheelers.</p>
+    <a href="/edge-ai-25/projects/23-voice-authentication">Read more →</a>
+  </div>
+
+  <!-- 24 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/24-arrhythmia-detection" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/24-ecg-signal.png" alt="Arrhythmia Detection" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/24-arrhythmia-detection">ECG Signal & Arrhythmia Detection</a></h3>
+    <p>Analyzes ECG signals using AI on Arduino to detect arrhythmias in real-time.</p>
+    <a href="/edge-ai-25/projects/24-arrhythmia-detection">Read more →</a>
+  </div>
+
+  <!-- 25 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/25-bird-voice-classifier" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/25-bird-voice-classifier.png" alt="Bird Voice Recognition" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/25-bird-voice-classifier">Bird Voice Recognition</a></h3>
+    <p>Identifies bird species by analyzing their calls using deep learning on low-power devices.</p>
+    <a href="/edge-ai-25/projects/25-bird-voice-classifier">Read more →</a>
+  </div>
+
+  <!-- 26 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/26-retail-verification" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/26-smart-retail-setup.png" alt="Smart Retail Verification" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/26-retail-verification">Smart Retail Verification</a></h3>
+    <p>Uses Nicla Vision and FOMO models for real-time product verification in retail setups.</p>
+    <a href="/edge-ai-25/projects/26-retail-verification">Read more →</a>
+  </div>
+
+  <!-- 27 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/27-air-piano" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/27-virtual-piano-setup.png" alt="Air Piano" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/27-air-piano">Air Piano: Real-Time Finger Detection</a></h3>
+    <p>Detects finger motion for virtual piano playing using real-time edge vision models.</p>
+    <a href="/edge-ai-25/projects/27-air-piano">Read more →</a>
+  </div>
+
+</div>
 
 
+<!--
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -271,4 +412,4 @@ subtitle: Indian Institute of Science | January 2025
 
 27. [Air Piano: Real-Time Finger Detection for Virtual Piano Playing](projects/27-air-piano.md)
 
-  ![Virtual Piano](assets/img/projects25/27-virtual-piano-setup.png)
+  ![Virtual Piano](assets/img/projects25/27-virtual-piano-setup.png) -->
