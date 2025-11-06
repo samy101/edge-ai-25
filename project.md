@@ -9,6 +9,40 @@ subtitle: Indian Institute of Science | January 2025
 
 ### List of Projects
 
+### [Portable Sign-language Translator](projects/sign_lang.md)
+<img src="../assets/img/projects25/01-sign-language.png" width="200" align="left" style="margin-right:10px;">
+A portable translator that converts sign language gestures into text or speech using machine learning.  
+[Read more →](projects/sign_lang.md)
+
+---
+
+### [Fruit Detection](projects/fruit_detection.md)
+<img src="../assets/img/projects25/02-fruits.png" width="200" align="left" style="margin-right:10px;">
+Detects and classifies fruits from images using deep learning models.  
+[Read more →](projects/fruit_detection.md)
+
+---
+
+
+---
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px;">
+    <h3><a href="projects/sign_lang.md">Portable Sign-language Translator</a></h3>
+    <p>A handheld device that translates sign language into speech using AI.</p>
+    <a href="projects/sign_lang.md">Read more →</a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px;">
+    <h3><a href="projects/fruit_detection.md">Fruit Detection</a></h3>
+    <p>An AI-powered system that identifies fruits from live camera feeds.</p>
+    <a href="projects/fruit_detection.md">Read more →</a>
+  </div>
+
+</div>
+
 
 | Preview | Project |
 |----------|----------|
@@ -27,7 +61,7 @@ subtitle: Indian Institute of Science | January 2025
     
 5. [Vehicle Monitoring](projects/vehicle_monitoring.md)
 
-6. [Anomly Detection in PV Panel](projects/04-anomly-pv-panels.md)
+6. [Anomaly Detection in PV Panel](projects/04-anomly-pv-panels.md)
 
 7. [AI-Powered Posture Correction System on Edge Devices](projects/05-posture-correction.md)
 
@@ -55,7 +89,7 @@ subtitle: Indian Institute of Science | January 2025
 
 19. [A Magnetometer-Driven Alert System for Asset Protection & Anti-Theft Systems](projects/17-anti-theft-alert.md)
 
-20. [AI Powered Blind Assistance device](projects/18-blind-assistance.md)
+20. [AI-Powered Blind Assistance Device](projects/18-blind-assistance.md)
 
 21. [On-Device Object Recognition and Proximity Feedback for Blind Navigation Aids](projects/19-blind-navigation-aid.md)
 
