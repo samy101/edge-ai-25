@@ -9,22 +9,58 @@ subtitle: Indian Institute of Science | January 2025
 
 ### List of Projects
 
-### [Portable Sign-language Translator](projects/sign_lang.md)
-<img src="../assets/img/projects25/01-sign-language.png" width="200" align="left" style="margin-right:10px;">
-A portable translator that converts sign language gestures into text or speech using machine learning.  
-[Read more →](projects/sign_lang.md)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <!-- Project 1 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="projects/sign_lang.md">
+      <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px;">
+      <h3>Portable Sign-language Translator</h3>
+    </a>
+    <p>A handheld device that translates sign language into speech using AI.</p>
+    <a href="projects/sign_lang.md">Read more →</a>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="projects/fruit_detection.md">
+      <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px;">
+      <h3>Fruit Detection</h3>
+    </a>
+    <p>An AI-powered system that identifies fruits from live camera feeds.</p>
+    <a href="projects/fruit_detection.md">Read more →</a>
+  </div>
+
+  <!-- Add more projects below following the same pattern -->
+
+</div>
+
+<!-- Add some responsive CSS -->
+<style>
+  @media (max-width: 768px) {
+    /* For small screens (Mobile) */
+    div > div {
+      width: 100%; /* Single column */
+    }
+  }
+
+  @media (min-width: 769px) and (max-width: 1024px) {
+    /* For medium screens (Tablets) */
+    div > div {
+      width: 45%; /* Two columns */
+    }
+  }
+
+  @media (min-width: 1025px) {
+    /* For large screens (Desktops) */
+    div > div {
+      width: 30%; /* Three columns */
+    }
+  }
+</style>
 
 ---
 
-### [Fruit Detection](projects/fruit_detection.md)
-<img src="../assets/img/projects25/02-fruits.png" width="200" align="left" style="margin-right:10px;">
-Detects and classifies fruits from images using deep learning models.  
-[Read more →](projects/fruit_detection.md)
-
----
-
-
----
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
