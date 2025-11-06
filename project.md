@@ -7,10 +7,10 @@ subtitle: Indian Institute of Science | January 2025
 ### Course project
 ---  
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div class="project-grid">
 
   <!-- 1 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/sign_lang" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px;">
     </a>
@@ -20,7 +20,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 2 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/fruit_detection" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px;">
     </a>
@@ -30,7 +30,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 3 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/vehicle_monitoring" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/03-vehicle-monitoring.png" alt="Vehicle Monitoring" width="250" style="border-radius: 6px;">
     </a>
@@ -40,7 +40,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 4 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/04-anomly-pv-panels" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/04-anomly-pv-panels.png" alt="PV Panels" width="250" style="border-radius: 6px;">
     </a>
@@ -50,7 +50,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 5 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/05-posture-correction" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/05-posture-implementation.png" alt="Posture Correction" width="250" style="border-radius: 6px;">
     </a>
@@ -60,7 +60,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 6 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/06-ppe-violation" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/06-ppe-mcb.png" alt="PPE Violation" width="250" style="border-radius: 6px;">
     </a>
@@ -70,7 +70,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 7 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/07-predicitive-maintenance" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/07-predictive-maintenance.png" alt="Predictive Maintenance" width="250" style="border-radius: 6px;">
     </a>
@@ -80,7 +80,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 8 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/08-analog-meter-reader" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/08-meter-reader-setup.png" alt="Analog Meter Reader" width="250" style="border-radius: 6px;">
     </a>
@@ -90,7 +90,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 9 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/09-intrusion-detection" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/09-intrusion-detection.png" alt="CAN Bus Security" width="250" style="border-radius: 6px;">
     </a>
@@ -100,7 +100,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 10 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/10-smart-parking" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/10-smart-parking.png" alt="Smart Parking" width="250" style="border-radius: 6px;">
     </a>
@@ -110,7 +110,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 11 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/11-waste-segregation" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/11-waste-segregation.png" alt="Waste Segregation" width="250" style="border-radius: 6px;">
     </a>
@@ -120,7 +120,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 12 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/12-activation-aware-quantization" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/12-robot-train.png" alt="Robot Task" width="250" style="border-radius: 6px;">
     </a>
@@ -130,7 +130,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 13 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/13-smart-irrigation" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/13-smart-irrigation.png" alt="Smart Irrigation" width="250" style="border-radius: 6px;">
     </a>
@@ -140,7 +140,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 14 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/14-charge-degrad-esti-battery" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/14-battery-charge-estimation.png" alt="Battery Charge Estimation" width="250" style="border-radius: 6px;">
     </a>
@@ -150,7 +150,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 15 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/15-compres-llms-prune" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/15-quantize-vs-model.png" alt="LLM Compression" width="250" style="border-radius: 6px;">
     </a>
@@ -160,7 +160,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 16 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/16-ml-smart-manufacturing" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/16-AI-smart-manufacturing.png" alt="Smart Manufacturing" width="250" style="border-radius: 6px;">
     </a>
@@ -170,7 +170,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 17 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/17-anti-theft-alert" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/17-anti-theft.png" alt="Anti-Theft System" width="250" style="border-radius: 6px;">
     </a>
@@ -180,7 +180,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 18 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/18-blind-assistance" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/18-blind-assistance-hardware.png" alt="Blind Assistance Device" width="250" style="border-radius: 6px;">
     </a>
@@ -190,7 +190,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 19 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/19-blind-navigation-aid" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/19-proximity-blind-nav.png" alt="Blind Navigation Aid" width="250" style="border-radius: 6px;">
     </a>
@@ -200,7 +200,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 20 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/20-object-identification" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/20-object-identification.png" alt="Object Identification" width="250" style="border-radius: 6px;">
     </a>
@@ -210,7 +210,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 21 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/21-driver-behaviour" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/21-drive-behaviour.png" alt="Driver Behaviour" width="250" style="border-radius: 6px;">
     </a>
@@ -220,7 +220,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 22 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/22-urgent-care" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/22-urgent-care-hardware.png" alt="Urgent Care AI" width="250" style="border-radius: 6px;">
     </a>
@@ -230,7 +230,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 23 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/23-voice-authentication" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/23-voice-classification.png" alt="Voice Authentication" width="250" style="border-radius: 6px;">
     </a>
@@ -240,7 +240,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 24 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/24-arrhythmia-detection" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/24-ecg-signal.png" alt="Arrhythmia Detection" width="250" style="border-radius: 6px;">
     </a>
@@ -250,7 +250,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 25 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/25-bird-voice-classifier" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/25-bird-voice-classifier.png" alt="Bird Voice Recognition" width="250" style="border-radius: 6px;">
     </a>
@@ -260,7 +260,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 26 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/26-retail-verification" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/26-smart-retail-setup.png" alt="Smart Retail Verification" width="250" style="border-radius: 6px;">
     </a>
@@ -270,7 +270,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- 27 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/27-air-piano" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/27-virtual-piano-setup.png" alt="Air Piano" width="250" style="border-radius: 6px;">
     </a>
@@ -281,12 +281,97 @@ subtitle: Indian Institute of Science | January 2025
 
 </div>
 
+<style>
+
+  /* Responsive project grid layout */
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+    justify-items: center;
+    padding: 20px;
+  }
+  
+  /* Project card styling */
+  .project-card {
+    background: #fafafa;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+    padding: 15px;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+  
+  /* Hover pop-out effect */
+  .project-card:hover {
+    transform: translateY(-8px) scale(1.03);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+  }
+  
+  /* Image styling */
+  .project-card img {
+    width: 100%;
+    max-width: 250px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease;
+  }
+  
+  .project-card:hover img {
+    transform: scale(1.05);
+  }
+  
+  /* Text & link styling */
+  .project-card h3 {
+    margin: 10px 0 6px;
+    font-size: 1.1rem;
+  }
+  
+  .project-card p {
+    font-size: 0.9rem;
+    color: #555;
+    min-height: 40px;
+  }
+  
+  .project-card a {
+    text-decoration: none;
+    color: #0073e6;
+  }
+  
+  .project-card a.read-more {
+    display: inline-block;
+    margin-top: 8px;
+    font-weight: 500;
+  }
+  
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/sign_lang" style="text-decoration: none; color: inherit;">
     <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px;">
     </a>
@@ -295,7 +380,7 @@ subtitle: Indian Institute of Science | January 2025
     <a href="/edge-ai-25/projects/sign_lang">Read more →</a>
   </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+  <div class="project-card">
     <a href="/edge-ai-25/projects/fruit_detection" style="text-decoration: none; color: inherit;">
     <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px;">
     </a>
