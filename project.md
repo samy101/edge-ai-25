@@ -11,20 +11,20 @@ subtitle: Indian Institute of Science | January 2025
 
   <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
     <a href="/edge-ai-25/projects/sign_lang" style="text-decoration: none; color: inherit;">
-      <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px;">
+    <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px;">
     </a>
-      <h3><a href="/edge-ai-25/projects/sign_lang">Portable Sign-language Translator</a></h3>
-      <p>A handheld device that translates sign language into speech using AI.</p>
-      <a href="/edge-ai-25/projects/sign_lang">Read more →</a>
+    <h3><a href="/edge-ai-25/projects/sign_lang">Portable Sign-language Translator</a></h3>
+    <p>A handheld device that translates sign language into speech using AI.</p>
+    <a href="/edge-ai-25/projects/sign_lang">Read more →</a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
     <a href="/edge-ai-25/projects/fruit_detection" style="text-decoration: none; color: inherit;">
-      <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px;">
+    <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px;">
     </a>
-      <h3><a href="/edge-ai-25/projects/fruit_detection">Fruit Detection</a></h3>
-      <p>An AI-powered system that identifies fruits from live camera feeds.</p>
-      <a href="/edge-ai-25/projects/fruit_detection">Read more →</a>
+    <h3><a href="/edge-ai-25/projects/fruit_detection">Fruit Detection</a></h3>
+    <p>An AI-powered system that identifies fruits from live camera feeds.</p>
+    <a href="/edge-ai-25/projects/fruit_detection">Read more →</a>
     
   </div>
 
@@ -41,13 +41,23 @@ subtitle: Indian Institute of Science | January 2025
     
 3. [Vehicle Monitoring](projects/vehicle_monitoring.md)
 
+  ![Vehicle Monitoring](assets/img/projects25/03-vehicle-monitoring.png)
+
 4. [Anomaly Detection in PV Panel](projects/04-anomly-pv-panels.md)
+
+  ![PV Panels](assets/img/projects25/04-anomly-pv-panels-imgs.png)
 
 5. [AI-Powered Posture Correction System on Edge Devices](projects/05-posture-correction.md)
 
+  ![Correct Posture](assets/img/projects25/05-posture-implementation.png)
+
 6. [Real-Time PPE Violation Detection and Servo-Actuated MCB Shutdown](projects/06-ppe-violation.md)
 
+  ![PPE MCB](assets/img/projects25/06-ppe-mcb.png)
+
 7. [Acoustic Based Predictive Maintenance](projects/07-predicitive-maintenance.md)
+
+  ![Predictive Maintenance](assets/img/projects25/07-predictive-maintenance.png)
 
 8. [Real Time Analog Meter Reader Using Edge Computing](projects/08-analog-meter-reader.md)
 
