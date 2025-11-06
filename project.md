@@ -33,7 +33,7 @@ subtitle: Indian Institute of Science | January 2025
 
 1. [Portable Sign-language Translater](projects/sign_lang.md)
 
-   <p><img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" style="width:200px;"></p>
+   <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" style="width:200">
 
 2. [Fruit Detection](projects/fruit_detection.md)
 
