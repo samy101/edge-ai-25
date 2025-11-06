@@ -10,7 +10,7 @@ subtitle: Indian Institute of Science | January 2025
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <!-- Project 1 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa; transition: all 0.3s ease;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa; transition: all 0.3s ease; cursor: pointer;">
     <a href="projects/sign_lang.md" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;">
       <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px; transition: all 0.3s ease;">
       <h3 style="transition: all 0.3s ease;">Portable Sign-language Translator</h3>
@@ -20,7 +20,7 @@ subtitle: Indian Institute of Science | January 2025
   </div>
 
   <!-- Project 2 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa; transition: all 0.3s ease;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa; transition: all 0.3s ease; cursor: pointer;">
     <a href="projects/fruit_detection.md" style="text-decoration: none; color: inherit; display: block; transition: all 0.3s ease;">
       <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px; transition: all 0.3s ease;">
       <h3 style="transition: all 0.3s ease;">Fruit Detection</h3>
@@ -31,15 +31,25 @@ subtitle: Indian Institute of Science | January 2025
 
 </div>
 
-<!-- Add the glow effect on hover using CSS -->
+<!-- Add the hover effect on the card only -->
 <style>
   /* Hover effect on the card */
   div > div:hover {
-    box-shadow: 0 0 15px rgba(0, 255, 255, 0.7);  /* Glow effect around the card */
     transform: translateY(-5px);  /* Slight lift effect */
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.7);  /* Glow effect around the card */
   }
 
-  /* Hover effect on the image */
+  /* Smooth transition for the hover effect */
+  div > div, div > div a, div > div img, div > div h3 {
+    transition: all 0.3s ease;  /* Smooth transition for all elements */
+  }
+
+  /* Optional: Cursor pointer on hover */
+  div > div {
+    cursor: pointer;
+  }
+
+  /* Optional: Slight effect on the image */
   div > div:hover img {
     transform: scale(1.05);  /* Slightly enlarge image on hover */
   }
@@ -55,11 +65,8 @@ subtitle: Indian Institute of Science | January 2025
     font-weight: bold;
   }
 
-  /* Smooth transition for the hover effects */
-  div > div, div > div a, div > div img, div > div h3 {
-    transition: all 0.3s ease;  /* Ensure smooth transitions for all elements */
-  }
 </style>
+
 
 
 ---
