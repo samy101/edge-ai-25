@@ -7,6 +7,142 @@ subtitle: Indian Institute of Science | January 2025
 ### Course project
 ---  
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <!-- 1 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/sign_lang" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/sign_lang">Portable Sign-language Translator</a></h3>
+    <p>A handheld AI device that converts sign language gestures into speech or text in real-time.</p>
+    <a href="/edge-ai-25/projects/sign_lang">Read more →</a>
+  </div>
+
+  <!-- 2 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/fruit_detection" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/fruit_detection">Fruit Detection</a></h3>
+    <p>An edge AI model that classifies and detects fruits for automation in agriculture and retail.</p>
+    <a href="/edge-ai-25/projects/fruit_detection">Read more →</a>
+  </div>
+
+  <!-- 3 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/vehicle_monitoring" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/03-vehicle-monitoring.png" alt="Vehicle Monitoring" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/vehicle_monitoring">Vehicle Monitoring</a></h3>
+    <p>Real-time vehicle tracking and classification using vision-based AI deployed on edge devices.</p>
+    <a href="/edge-ai-25/projects/vehicle_monitoring">Read more →</a>
+  </div>
+
+  <!-- 4 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/04-anomly-pv-panels" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/04-anomly-pv-panels.png" alt="PV Panels" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/04-anomly-pv-panels">Anomaly Detection in PV Panels</a></h3>
+    <p>Detects faults, hotspots, and degradation in solar panels using edge-based thermal analysis.</p>
+    <a href="/edge-ai-25/projects/04-anomly-pv-panels">Read more →</a>
+  </div>
+
+  <!-- 5 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/05-posture-correction" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/05-posture-implementation.png" alt="Posture Correction" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/05-posture-correction">AI-Powered Posture Correction</a></h3>
+    <p>Monitors body posture in real time and provides corrective feedback via edge AI vision models.</p>
+    <a href="/edge-ai-25/projects/05-posture-correction">Read more →</a>
+  </div>
+
+  <!-- 6 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/06-ppe-violation" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/06-ppe-mcb.png" alt="PPE Violation" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/06-ppe-violation">PPE Violation Detection & MCB Shutdown</a></h3>
+    <p>Detects PPE violations and automatically cuts power through servo-controlled MCB shutdown.</p>
+    <a href="/edge-ai-25/projects/06-ppe-violation">Read more →</a>
+  </div>
+
+  <!-- 7 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/07-predicitive-maintenance" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/07-predictive-maintenance.png" alt="Predictive Maintenance" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/07-predicitive-maintenance">Acoustic Based Predictive Maintenance</a></h3>
+    <p>Uses sound data to predict machine faults and prevent failures before they occur.</p>
+    <a href="/edge-ai-25/projects/07-predicitive-maintenance">Read more →</a>
+  </div>
+
+  <!-- 8 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/08-analog-meter-reader" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/08-meter-reader-setup.png" alt="Analog Meter Reader" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/08-analog-meter-reader">Real-Time Analog Meter Reader</a></h3>
+    <p>Captures and reads analog meters using edge computer vision models.</p>
+    <a href="/edge-ai-25/projects/08-analog-meter-reader">Read more →</a>
+  </div>
+
+  <!-- 9 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/09-intrusion-detection" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/09-intrusion-detection.png" alt="CAN Bus Security" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/09-intrusion-detection">AI-Based Intrusion Detection for CAN Bus</a></h3>
+    <p>Detects abnormal messages in automotive CAN networks using lightweight edge AI models.</p>
+    <a href="/edge-ai-25/projects/09-intrusion-detection">Read more →</a>
+  </div>
+
+  <!-- 10 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/10-smart-parking" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/10-smart-parking.png" alt="Smart Parking" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/10-smart-parking">IntelliPark: Smart Parking Detection</a></h3>
+    <p>Uses Nicla Vision and FOMO models to identify available parking slots in real time.</p>
+    <a href="/edge-ai-25/projects/10-smart-parking">Read more →</a>
+  </div>
+
+  <!-- 11 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/11-waste-segregation" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/11-waste-segregation.png" alt="Waste Segregation" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/11-waste-segregation">Smart Waste Segregation</a></h3>
+    <p>Automatically classifies waste into categories using BLE and edge AI on Arduino.</p>
+    <a href="/edge-ai-25/projects/11-waste-segregation">Read more →</a>
+  </div>
+
+  <!-- 12 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/12-activation-aware-quantization" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/12-robot-train.png" alt="Robot Task" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/12-activation-aware-quantization">Activation-Aware Quantization for Robots</a></h3>
+    <p>Enhances robotic learning efficiency with quantized models optimized for edge deployment.</p>
+    <a href="/edge-ai-25/projects/12-activation-aware-quantization">Read more →</a>
+  </div>
+
+  <!-- 13 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
+    <a href="/edge-ai-25/projects/13-smart-irrigation" style="text-decoration: none; color: inherit;">
+      <img src="../assets/img/projects25/13-smart-irrigation.png" alt="Smart Irrigation" width="250" style="border-radius: 6px;">
+    </a>
+    <h3><a href="/edge-ai-25/projects/13-smart-irrigation">Smart Irrigation System</a></h3>
+    <p>Uses edge sensors and AI to optimize water usage in precision agriculture.</p>
+    <a href="/edge-ai-25/projects/13-smart-irrigation">Read more →</a>
+  </div>
+
+  <!-- 14–27 continue... -->
+
+
+---
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 10px; text-align: center; background: #fafafa;">
@@ -45,7 +181,7 @@ subtitle: Indian Institute of Science | January 2025
 
 4. [Anomaly Detection in PV Panel](projects/04-anomly-pv-panels.md)
 
-  ![PV Panels](assets/img/projects25/04-anomly-pv-panels-imgs.png)
+  ![PV Panels](assets/img/projects25/04-anomly-pv-panels.png)
 
 5. [AI-Powered Posture Correction System on Edge Devices](projects/05-posture-correction.md)
 
@@ -61,40 +197,78 @@ subtitle: Indian Institute of Science | January 2025
 
 8. [Real Time Analog Meter Reader Using Edge Computing](projects/08-analog-meter-reader.md)
 
+  ![Meter Reader](assets/img/projects25/08-meter-reader-setup.png)
+
 9. [AI–Based Intrusion Detection System for CAN Bus Security](projects/09-intrusion-detection.md)
+
+  ![Intrusion Detection](assets/img/projects25/09-intrusion-detection.png)
 
 10. [IntelliPark: Smart Parking Detection System using Nicla Vision](projects/10-smart-parking.md)
 
 11. [Smart Waste Segregation using Arduino BLE and Edge AI](projects/11-waste-segregation.md)
 
+  ![Waste Segregation](assets/img/projects25/11-waste-segregation.png)
+
 12. [Enhancing Plan-Seq-Learn with Activation-aware Weight Quantization for Efficient Robotic Manipulation](projects/12-activation-aware-quantization.md)
+
+  ![Robot Task](assets/img/projects25/12-robot-train.png)
 
 13. [Smart Irrigation System for Precision Agriculture](projects/13-smart-irrigation.md)
 
+  ![Smart Irrigation](assets/img/projects25/13-smart-irrigation.png)
+
 14. [Intelligent State of Charge (SoC) Estimation Using LSTM on Edge Devices](projects/14-charge-degrad-esti-battery.md)
+
+  ![Battery Charge](assets/img/projects25/14-battery-charge-estimation.png)
 
 15. [Compressing LLMs for Edge Devices: Using Game Theory for Pruning](projects/15-compres-llms-prune.md)
 
+  ![LLM Compression](assets/img/projects25/15-quantize-vs-model.png)
+
 16. [AI-Powered Machine Learning Pipeline for Smart Manufacturing](projects/16-ml-smart-manufacturing.md)
+
+  ![Smart Manufacturing](assets/img/projects25/16-AI-smart-manufacturing.png)
 
 17. [A Magnetometer-Driven Alert System for Asset Protection & Anti-Theft Systems](projects/17-anti-theft-alert.md)
 
+  ![Anti Theft](assets/img/projects25/17-anti-theft.png)
+
 18. [AI-Powered Blind Assistance Device](projects/18-blind-assistance.md)
+
+  ![Blind AssistaAssistance](assets/img/projects25/18-blind-assistance-hardware.png)
 
 19. [On-Device Object Recognition and Proximity Feedback for Blind Navigation Aids](projects/19-blind-navigation-aid.md)
 
+  ![Proximity Blind Navigation](assets/img/projects25/19-proximity-blind-nav.png)
+
 20. [Feature Estimation and Object Identification](projects/20-object-identification.md)
+
+  ![Object Identification](assets/img/projects25/20-object-identification.png)
 
 21. [Driver Drowsiness and Distraction Detection System](projects/21-driver-behaviour.md)
 
+  ![Driver Behaviour](assets/img/projects25/21-drive-behaviour.png)
+
 22. [UrgentCare-AI: Patient Monitoring System](projects/22-urgent-care.md)
+
+  ![Urgent Care](assets/img/projects25/22-urgent-care-hardware.png)
 
 23. [Voice Authentication and Command Classification for Two-Wheelers](projects/23-voice-authentication.md)
 
+  ![Voice Classification](assets/img/projects25/23-voice-classification.png)
+
 24. [ECG Signal Acquisition and Arrhythmia Detection using Arduino](projects/24-arrhythmia-detection.md)
+
+  ![ECG Signal](assets/img/projects25/24-ecg-signal.png)
 
 25. [Bird Voice Recognition using Deep Learning](projects/25-bird-voice-classifier.md)
 
+  ![Bird Voice Classifier](assets/img/projects25/25-bird-voice-classifier.png)
+
 26. [Smart Retail Verification using FOMO model on Nicla Vision](projects/26-retail-verification.md)
 
+  ![Smart Retail](assets/img/projects25/26-smart-retail-setup.png)
+
 27. [Air Piano: Real-Time Finger Detection for Virtual Piano Playing](projects/27-air-piano.md)
+
+  ![Virtual Piano](assets/img/projects25/27-virtual-piano-setup.png)
