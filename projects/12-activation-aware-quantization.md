@@ -16,6 +16,13 @@ We benchmark the model's performance in terms of **size**, **latency**, and **ac
 
 With the rise of transformer-based language models, deploying these models on **edge devices** remains a challenge due to their high memory and compute requirements. **AWQ** offers a promising solution by enabling quantization while preserving performance.
 
+<p align="center">
+  <img src="../assets/img/projects25/12-robot-train.png" 
+       alt="Robot Quantization Training" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 ### Objective
 
 Compress a model like **LLaMA 2** or **Mistral 7B** using AWQ and deploy it efficiently on **consumer-grade hardware**, validating its usability for downstream tasks **without cloud dependence**.
@@ -162,3 +169,4 @@ A working prototype was deployed on the **NVIDIA Jetson Orin NX**, running the q
 2. NVIDIA, “Jetson Orin NX Series,” [NVIDIA Official Website](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/)
 
 3. D. Pal, S. Ghosh, and V. P. Namboodiri, “Plan-Seq-Learn: Plan your Prompt before you Roll the LLM,” arXiv preprint, 2024. [arXiv:2403.09087](https://arxiv.org/abs/2403.09087)
+
