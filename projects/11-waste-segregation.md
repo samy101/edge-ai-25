@@ -12,6 +12,13 @@ Waste segregation plays a crucial role in improving recycling efficiency and red
 
 This project aims to address the problem of manual waste sorting by developing an **Edge AI system** that automatically classifies and segregates waste materials. Using an **Arduino Nano 33 BLE Sense Lite** device and the **OV7675 camera**, the system aims to improve recycling rates, reduce landfill waste, and promote sustainability.
 
+<p align="center">
+  <img src="../assets/img/projects25/11-waste-segregation.png" 
+       alt="Smart Waste Segregation" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 The world’s waste problem is escalating, with over **2 billion tons** of solid waste generated annually. Most of this waste ends up in mixed bins, making recycling and waste management a challenge. 
 
 The lack of an efficient system to automatically segregate waste has led to the reliance on manual sorting, which is:
@@ -169,4 +176,5 @@ A prototype of the smart waste segregation system was developed by integrating:
 4. Fang, B., Yu, J., Chen, Z., et al. (2023). *Artificial intelligence for waste management in smart cities: a review*. _Environmental Chemistry Letters, 21_, 1959–1989. [DOI Link](https://doi.org/10.1007/s10311-023-01604-3)
 
 5. Gayathri, B., et al. (2023). *Edge Computation Assisted Garbage Monitoring and Alerting System for a Smart City*. In _ICCCI 2023, Coimbatore, India_, pp. 1-4. [DOI: 10.1109/ICCCI56745.2023.10128268](https://doi.org/10.1109/ICCCI56745.2023.10128268)
+
 
