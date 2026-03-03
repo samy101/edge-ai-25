@@ -6,6 +6,13 @@ subtitle: Indian Institute of Science | January 2025
 
 # Real-Time Vehicle Monitoring and Number Plate Recognition System on Edge Devices
 
+<p align="center">
+  <img src="../assets/img/projects25/03-vehicle-monitoring.png" 
+       alt="Vehicle Monitoring" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 ## Introduction and Objectives
 
 ### Project Overview
@@ -103,3 +110,4 @@ This project demonstrates a **robust**, **real-time**, and **modular edge AI sys
 ## 🔗 GitHub Repository
 
 [https://github.com/prabhat51/vehicle-monitoring-system](https://github.com/prabhat51/vehicle-monitoring-system)
+
