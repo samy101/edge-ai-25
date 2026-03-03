@@ -12,6 +12,13 @@ This project presents a real-time assistive system for visually impaired users. 
 
 Traditional mobility aids like white canes are effective but offer limited spatial context. Emerging edge AI devices provide opportunities to enhance situational awareness. Our motivation was to combine vision-based object classification and real-time distance sensing in a unified prototype that visually impaired users could benefit from, using off-the-shelf, cost-effective hardware.
 
+<p align="center">
+  <img src="../assets/img/projects25/19-proximity-blind-nav.png" 
+       alt="Blind Navigation Aid" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 ### Methodology
 
 **Hardware Used**
@@ -124,3 +131,4 @@ Early testing showed delays in feedback due to slow serial polling and TTS rende
 2. *Low-cost Obstacle Detector for Visually Impaired Using Ultrasonic Sensor* (2024). MJARET, 3(4). [link](https://doi.org/10.54228/xsa7mm61)  
 3. *MCUNet: Tiny Deep Learning on IoT Devices*. [link](https://arxiv.org/abs/2007.10319)  
 4. *TensorFlow Lite Micro*. [link](https://arxiv.org/abs/2010.08678)  
+
