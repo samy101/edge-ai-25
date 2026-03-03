@@ -10,11 +10,16 @@ subtitle: Indian Institute of Science | January 2025
 
 Real-time fruit detection and counting using smartphone-based edge AI is crucial for numerous agricultural, retail, and nutritional applications. This report details our implementation of a compact yet powerful YOLOv8 model optimized for deployment on mobile edge devices.
 
-
 ## Background and Motivation
 
 Accurate fruit detection traditionally requires dedicated hardware, limiting accessibility and increasing costs. Leveraging smartphones as edge devices provides a scalable, cost-effective, and portable solution. This motivates our exploration of lightweight deep learning models and mobile optimization techniques.
 
+<p align="center">
+  <img src="../assets/img/projects25/02-fruits.png" 
+       alt="Fruit Detection" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 ## Methodology
 
@@ -140,3 +145,4 @@ This work demonstrates a practical edge AI solution with applications in agricul
 - [TensorFlow Lite](https://www.tensorflow.org/lite)  
 - [YOLOv8 Documentation](https://docs.ultralytics.com)  
 - [Android NNAPI](https://developer.android.com/ndk/guides/neuralnetworks)
+
