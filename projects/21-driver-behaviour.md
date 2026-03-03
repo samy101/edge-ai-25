@@ -18,6 +18,13 @@ The Driver Drowsiness and Distraction Detection System is designed to enhance ro
 
 This report details the implementation of our project, from data collection through model deployment on embedded hardware.
 
+<p align="center">
+  <img src="../assets/img/projects25/21-drive-behaviour.png" 
+       alt="Driver Drowsiness Detection" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 **Fig1: Mediapipe facial landmark detection**
 
 ---
@@ -274,4 +281,5 @@ Chosen for its ease of deployment on constrained devices.
 
 1. Soukupova, T., & Cech, J. "Real-Time Eye Blink Detection using Facial Landmarks", CVPRW, 2016.  
 2. [Google MediaPipe Documentation](https://developers.google.com/mediapipe)  
+
 3. [PMC Article](https://pmc.ncbi.nlm.nih.gov/articles/PMC10384496/)
