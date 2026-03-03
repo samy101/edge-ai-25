@@ -22,7 +22,12 @@ This project leverages **Edge AI** and **TinyML** to perform real-time, on-devic
 
 This secondary functionality demonstrates the potential of such systems in **smart city applications**, particularly for dynamic parking management.
 
----
+<p align="center">
+  <img src="../assets/img/projects25/10-smart-parking.png" 
+       alt="Smart Parking Detection" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 ### Methodology
 
@@ -144,3 +149,4 @@ The board:
 - [Arduino Nicla Vision Docs](https://docs.arduino.cc/hardware/nicla-vision)
 - [PKLot Dataset](https://web.inf.ufpr.br/vri/databases/parking-lot-database/)
 - [Hackster Tutorial](https://www.hackster.io/mjrobot/tinyml-made-easy-object-detection-with-nicla-vision-407ddd)
+
