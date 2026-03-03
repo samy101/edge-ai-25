@@ -9,6 +9,13 @@ subtitle: Indian Institute of Science | January 2025
 
 The **Edge AI Precision Irrigation System** is a fully autonomous, on-device solution for dynamically adjusting water supply to **nursery-stage crops** (e.g., onion seedlings) in response to environmental and crop conditions. It integrates **historical climate data** and **real-time soil moisture sensing** into a **machine learning inference engine** running on a **microcontroller**, which computes the crop’s current water demand and controls pump actuation **without cloud reliance**.
 
+<p align="center">
+  <img src="../assets/img/projects25/13-smart-irrigation.png" 
+       alt="Smart Irrigation System" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 In our implementation:
 - Weather inputs (**Tmax, RH, Irradiation**) via **weather API** feed an **MLP-based model** on a **Raspberry Pi Pico W** to estimate **daily reference evapotranspiration (ET₀)**.
 - ET₀ is then used to derive actual crop evapotranspiration (**ET₀ × Kc**).
@@ -213,3 +220,4 @@ This project presents a complete **Edge AI-based irrigation system** for nursery
 
 - **Project Repository**:  
   [AYRUS06 / Edge AI Based Precision Irrigation (GitHub)](https://github.com/AYRUS06/Edge_AI_based_precision_irrigatio)
+
