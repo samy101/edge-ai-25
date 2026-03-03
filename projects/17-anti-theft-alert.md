@@ -12,6 +12,13 @@ This project presents a compact AI-powered alert system that leverages magnetome
 
 The need for robust and cost-efficient anti-theft mechanisms in remote or indoor asset monitoring has driven the development of this system. Magnetic field variations serve as a reliable source to detect proximity changes or unauthorized movements in metallic objects like lockers, drawers, and safes.
 
+<p align="center">
+  <img src="../assets/img/projects25/17-anti-theft.png" 
+       alt="Magnetometer Anti-Theft System" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 ### Hardware and Software Required
 
 **Hardware**
@@ -43,4 +50,5 @@ When the state changes from "Closed" to "Open," the LED starts blinking, and the
 ### Refrences
 
 - [TensorFlow Lite - Post-training Integer Quantization](https://www.tensorflow.org/lite/performance/post_training_integer_quant)  
+
 - [Hackster.io - TinyML Projects](https://www.hackster.io/projects/tinyml)
