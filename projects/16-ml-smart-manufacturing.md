@@ -15,13 +15,16 @@ Machine learning is critical to Industry 4.0 and 5.0. One of the main challenges
 
 To solve this problem, we have built an application using a web app which has an intuitive user interface with automated machine learning features that can be used to customize models for edge devices.
 
----
+<p align="center">
+  <img src="../assets/img/projects25/16-AI-smart-manufacturing.png" 
+       alt="Smart Manufacturing AI Pipeline" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 ### Objective
 
 - Build an automated machine learning pipeline with a GUI which can be used to develop models which can be deployed on edge devices.
-
----
 
 ### Methodology
 
@@ -155,3 +158,4 @@ Testing results for the 2 benchmark tasks are as follows. All 3 models were trai
 10. Weng, Yu, Zehua Chen, and Tianbao Zhou. *"Improved differentiable neural architecture search for single image super-resolution."* Peer-to-Peer Networking and Applications 14.3 (2021): 1806-1815.  
 11. Cai, Han, et al. *"AutoML for architecting efficient and specialized neural networks."* IEEE Micro 40.1 (2019): 75-82.  
 12. Cai, Han, et al. *"Once-for-all: Train one network and specialize it for efficient deployment."* arXiv preprint arXiv:1908.09791 (2019).
+
