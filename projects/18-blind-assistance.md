@@ -14,6 +14,13 @@ Globally, over 285 million people are visually impaired, many of whom struggle w
 
 This project is motivated by the need to create an affordable, AI-based solution that enhances the independence and safety of blind and visually impaired individuals. By combining computer vision with real-time object detection on an edge device, the project seeks to bridge the gap between assistive needs and technological capability. The broader goal is to build a practical, user-friendly system that can evolve to include voice interaction and auditory feedback for a complete assistive experience.
 
+<p align="center">
+  <img src="../assets/img/projects25/18-blind-assistance-hardware.png" 
+       alt="Blind Assistance Device" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 ### Methodology
 
 #### List of hardware required and their specifications:
@@ -156,4 +163,5 @@ A helmet is used to which the Nicla Vision module is attached. The Nicla Vision 
 
 - https://mlsysbook.ai/contents/labs/arduino/nicla_vision/object_detection/object_detection.html  
 - H. Rithika and B. N. Santhoshi, "Image text to speech conversion in the desired language by translating with Raspberry Pi," 2016 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC), Chennai, India, 2016, pp. 1-4, doi: 10.1109/ICCIC.2016.7919526.  
+
   Keywords: Speech; Cameras; Engines; Optical character recognition software; Google; Pins; Raspberry Pi; Tesseract OCR engine; Google Speech API; Microsoft translator; Raspberry Pi camera board  
