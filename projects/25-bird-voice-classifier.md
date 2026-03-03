@@ -6,8 +6,6 @@ subtitle: Indian Institute of Science | January 2025
 
 ## Bird Voice Recognition using Deep Learning
 
----
-
 ### Introduction
 
 This project aims to develop a deep learning–based audio classification system capable of identifying bird species through their vocalizations. In the absence of bird calls, the system classifies the input as background noise, which was explicitly included in the training dataset to improve robustness. The project was carried out in the following phases:
@@ -17,6 +15,12 @@ This project aims to develop a deep learning–based audio classification system
 3. **Edge Deployment:** Deployed the trained model on the Arduino Nano 33 BLE Sense microcontroller, enabling real-time, offline inference without internet dependency.  
 4. **Web Interface Integration:** Designed a web-based interface to remotely monitor classification results using Wi-Fi-enabled communication.  
 
+<p align="center">
+  <img src="../assets/img/projects25/25-bird-voice-classifier.png" 
+       alt="Bird Voice Recognition" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 Accurate identification of bird species through their vocalizations is vital for ecological monitoring, biodiversity assessment, and conservation research. Traditionally, this process relies on manual listening and annotation, which is time-consuming, error-prone, and infeasible at scale—especially in remote or resource-limited environments.
 
@@ -145,3 +149,4 @@ In addition to on-device inference, a Flask-based web interface was developed to
 - Librosa Audio Processing: https://librosa.org  
 - MFCC Feature Extraction: https://arxiv.org/pdf/2208.13100  
 - Blog: https://www.hackster.io/409822/bird-sound-classifier-on-the-edge-583563#toc-building-a-dataset-4
+
