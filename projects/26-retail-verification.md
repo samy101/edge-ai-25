@@ -6,15 +6,18 @@ subtitle: Indian Institute of Science | January 2025
 
 ## Smart Retail Verification using FOMO model on Nicla Vision
 
----
-
 ### Introduction
 
 Retail businesses rely heavily on manual checkout processes prone to human errors in billing and inventory management. These errors lead to financial losses and poor customer experience. Traditional operations involve time-consuming manual product identification that impacts both operational efficiency and customer satisfaction.
 
 Our **Smart Retail Verification** system addresses these challenges through an **Edge AI solution** that automatically verifies items at checkout. The system consists of a **Nicla Vision device** running a lightweight object detection model and a **Python GUI application** for verification. This combination creates an efficient system that compares billed items against AI-detected items.
 
----
+<p align="center">
+  <img src="../assets/img/projects25/26-smart-retail-setup.png" 
+       alt="Smart Retail Verification" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 ### System Architecture
 
@@ -208,3 +211,4 @@ Such a system would revolutionize retail automation.
 3. "Arduino Nicla Vision Documentation," Arduino, 2023. [Online]. Available: [link](https://docs.arduino.cc/hardware/nicla-vision)  
 4. "Roboflow Documentation," Roboflow, 2023. [Online]. Available: [link](https://docs.roboflow.com)  
 5. J. Smith, M. Johnson, "Applications of AI in Retail: A Comprehensive Survey," *Journal of Retail Technology*, vol. 15, no. 3, pp. 234–250, 2023  
+
