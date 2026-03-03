@@ -14,7 +14,12 @@ Instead of sending ECG data to a PC for analysis, the goal was to run everything
 
 Solving this problem was important because early detection of cardiac irregularities can make a significant difference in treatment outcomes. Bringing basic AI-based diagnostics to the edge makes it easier to deploy such systems in real-world, low-resource scenarios.
 
----
+<p align="center">
+  <img src="../assets/img/projects25/24-ecg-signal.png" 
+       alt="ECG Arrhythmia Detection" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 ### Methodology
 
@@ -110,3 +115,4 @@ After testing and validating the model on Edge Impulse Studio, the inference cod
    [geekymedics.com/how-to-read-an-ecg/](https://geekymedics.com/how-to-read-an-ecg/)
 
 2. [github](https://github.com/Manivannan-maker/ECGAnalyzer)
+
