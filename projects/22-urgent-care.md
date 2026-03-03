@@ -14,6 +14,13 @@ In critical care environments, timely detection of patient needs is essential. U
 - **Movement Detection:** Monitors hand-waving gestures.  
 - **Bed Presence Detection:** Tracks whether a patient is on the bed.
 
+<p align="center">
+  <img src="../assets/img/projects25/22-urgent-care-hardware.png" 
+       alt="UrgentCare AI System" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 The modules operate independently but contribute collectively to ensure rapid alerting and continuous surveillance. The system leverages compact AI models suitable for embedded deployment and uses MQTT messaging for inter-device communication (except KWS, which directly alerts staff).
 
 In hospitals and elderly care environments, patients may not always be in a position to use conventional alerting systems. UrgentCare-AI aims to bridge this gap by enabling: 
@@ -162,3 +169,4 @@ A local Python process on the server subscribes to MQTT topics and evaluates:
 5. [MQTT Protocol](https://mqtt.org/)  
 6. [MFCC for Audio Processing](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)  
 7. [Codebase (GitHub)](https://github.com/HTCSUYOGJARE/UrgentCare-AI-Patinet-Monitoring-System.git)  
+
