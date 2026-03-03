@@ -13,7 +13,12 @@ This project mainly focuses on developing a solution to read analog gauge meter 
 
 Analog meters are still widely used by various industries to check measurements such as pressure, temperature, voltage, etc. Reading these meters manually is time-consuming and prone to errors, especially in automated environments. The motivation behind this project is to automate this process using a camera-based system, which can increase efficiency and accuracy in various industrial applications. We aim to offer a solution that can read and interpret analog meter readings accurately.
 
----
+<p align="center">
+  <img src="../assets/img/projects25/08-meter-reader-setup.png" 
+       alt="Analog Meter Reader" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 ### Methodology
 
@@ -137,3 +142,4 @@ Analog meters are still widely used by various industries to check measurements 
 4. **L. Moreau**  
    "Introducing EON Compiler RAM-optimized", *Edge Impulse Blog*, Mar. 14, 2024.  
    [https://www.edgeimpulse.com/blog/introducing-eon-compile](https://www.edgeimpulse.com/blog/introducing-eon-compile)
+
