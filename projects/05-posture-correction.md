@@ -12,6 +12,12 @@ This project focuses on developing an AI-based posture correction system designe
 
 Posture-related health problems—such as chronic back pain, spinal dysfunction, and joint degeneration—are increasingly common due to sedentary work environments and prolonged screen time. Traditional methods for posture correction are either manual, intrusive, or expensive. The integration of artificial intelligence with edge computing opens up opportunities for scalable, real-time, and privacy-preserving posture monitoring systems. The motivation for this project is to provide an accessible, low-cost, and intelligent solution for daily posture monitoring using widely available hardware. 
 
+<p align="center">
+  <img src="../assets/img/projects25/05-posture-implementation.png" 
+       alt="Posture Correction System" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 ### Hardware and Software Requirements
 
@@ -110,3 +116,4 @@ Posture-related health problems—such as chronic back pain, spinal dysfunction,
 - [PMC Article 2](https://pmc.ncbi.nlm.nih.gov/articles/PMC6166197/)  
 - [ChatGPT](https://chatgpt.com)  
 - [ScienceDirect Article](https://www.sciencedirect.com/science/article/pii/S01698141230013)  
+
