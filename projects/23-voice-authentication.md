@@ -12,7 +12,12 @@ This voice authentication and bike command classification works by first registe
 
 For registration purposes, we used **speechbrain**, a Python package and an open-source toolkit designed for developing, training, and deploying speech and audio processing systems. It’s built on top of PyTorch and is widely used in research and real-world applications.
 
----
+<p align="center">
+  <img src="../assets/img/projects25/23-voice-classification.png" 
+       alt="Voice Authentication System" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 ### Data Collection
 
@@ -104,3 +109,4 @@ Through these optimizations, we achieved a **10x reduction in model size**, brin
 The novelty of the system lies in its ability to effectively filter out unwanted noise and accurately detect the registered user, ensuring robust performance in real-world, noisy environments.
 
 Finally, the entire solution was integrated with the bike’s instrument cluster via an Android application, enabling seamless end-to-end deployment for practical use.
+
