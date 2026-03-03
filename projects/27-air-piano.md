@@ -6,8 +6,6 @@ subtitle: Indian Institute of Science | January 2025
 
 ## Air Piano: Real-Time Finger Detection for Virtual Piano Playing
 
----
-
 ### Introduction
 
 Instead of playing a heavy, expensive instrument like a piano, you can wave your hands in the air to create sounds!
@@ -23,7 +21,12 @@ This project is a successful integration of creativity, machine learning, and em
 - **Low cost:** Instruments are expensive. This makes music fun and affordable for everyone.
 - **Interactive and engaging:** Play music just by waving your fingers in the air—magical and intuitive!
 
----
+<p align="center">
+  <img src="../assets/img/projects25/27-virtual-piano-setup.png" 
+       alt="Air Piano System" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 ### Methodology
 
@@ -152,4 +155,5 @@ Solution: Trial-and-error for bounding box area threshold → achieved reliable 
 
 - **FOMO Model Video Explanation:**  
 [YouTube: FOMO Model for Edge AI](https://www.youtube.com/watch?v=VzJZM5p24Tc&pp=ygUjZm9tbyBtb2RlbCBvYmplY3QgZGV0ZWN0aW9uIGVkZ2UgYWk%3D)
+
 
