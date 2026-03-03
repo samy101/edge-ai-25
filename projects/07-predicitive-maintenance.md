@@ -12,6 +12,13 @@ The main objective of this project is to develop an Edge AI-based anomaly detect
 
 Predictive maintenance plays a crucial role in minimizing machine downtime and maintenance costs in smart manufacturing setups. Acoustic signals serve as a non-intrusive, low-cost, and efficient way to detect early signs of machine failure. The need for real-time, on-device (edge) fault detection drives the integration of Edge AI with acoustic analysis. Traditional cloud-based solutions often suffer from latency, bandwidth, and privacy concerns—Edge AI can help overcome these.
 
+<p align="center">
+  <img src="../assets/img/projects25/07-predictive-maintenance.png" 
+       alt="Acoustic Predictive Maintenance" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 ### Hardware and Software Requirements
 
 **Hardware**
@@ -186,4 +193,5 @@ Model was deployed in two ways:
 - **Outcome:** Enabled execution from power bank without terminal, improving portability.
 
 ---
+
 
