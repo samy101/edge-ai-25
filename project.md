@@ -11,32 +11,32 @@ subtitle: Indian Institute of Science | January 2025
 
   <!-- 1 -->
   <div class="project-card">
-    <a href="/edge-ai-25/projects/sign_lang" style="text-decoration: none; color: inherit;">
+    <a href="/edge-ai-25/projects/01-sign_lang" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px;">
     </a>
-    <h3><a href="/edge-ai-25/projects/sign_lang">Portable Sign-language Translator</a></h3>
+    <h3><a href="/edge-ai-25/projects/01-sign_lang">Portable Sign-language Translator</a></h3>
     <p>A handheld AI device that converts sign language gestures into speech or text in real-time.</p>
-    <a href="/edge-ai-25/projects/sign_lang">Read more →</a>
+    <a href="/edge-ai-25/projects/01-sign_lang">Read more →</a>
   </div>
 
   <!-- 2 -->
   <div class="project-card">
-    <a href="/edge-ai-25/projects/fruit_detection" style="text-decoration: none; color: inherit;">
+    <a href="/edge-ai-25/projects/02-fruit_detection" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px;">
     </a>
-    <h3><a href="/edge-ai-25/projects/fruit_detection">Fruit Detection</a></h3>
+    <h3><a href="/edge-ai-25/projects/02-fruit_detection">Fruit Detection</a></h3>
     <p>An edge AI model that classifies and detects fruits for automation in agriculture and retail.</p>
-    <a href="/edge-ai-25/projects/fruit_detection">Read more →</a>
+    <a href="/edge-ai-25/projects/02-fruit_detection">Read more →</a>
   </div>
 
   <!-- 3 -->
   <div class="project-card">
-    <a href="/edge-ai-25/projects/vehicle_monitoring" style="text-decoration: none; color: inherit;">
+    <a href="/edge-ai-25/projects/03-vehicle_monitoring" style="text-decoration: none; color: inherit;">
       <img src="../assets/img/projects25/03-vehicle-monitoring.png" alt="Vehicle Monitoring" width="250" style="border-radius: 6px;">
     </a>
-    <h3><a href="/edge-ai-25/projects/vehicle_monitoring">Vehicle Monitoring</a></h3>
+    <h3><a href="/edge-ai-25/projects/03-vehicle_monitoring">Vehicle Monitoring</a></h3>
     <p>Real-time vehicle tracking and classification using vision-based AI deployed on edge devices.</p>
-    <a href="/edge-ai-25/projects/vehicle_monitoring">Read more →</a>
+    <a href="/edge-ai-25/projects/03-vehicle_monitoring">Read more →</a>
   </div>
 
   <!-- 4 -->
@@ -372,36 +372,36 @@ subtitle: Indian Institute of Science | January 2025
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div class="project-card">
-    <a href="/edge-ai-25/projects/sign_lang" style="text-decoration: none; color: inherit;">
+    <a href="/edge-ai-25/projects/01-sign_lang" style="text-decoration: none; color: inherit;">
     <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" width="250" style="border-radius: 6px;">
     </a>
-    <h3><a href="/edge-ai-25/projects/sign_lang">Portable Sign-language Translator</a></h3>
+    <h3><a href="/edge-ai-25/projects/01-sign_lang">Portable Sign-language Translator</a></h3>
     <p>A handheld device that translates sign language into speech using AI.</p>
-    <a href="/edge-ai-25/projects/sign_lang">Read more →</a>
+    <a href="/edge-ai-25/projects/01-sign_lang">Read more →</a>
   </div>
 
   <div class="project-card">
-    <a href="/edge-ai-25/projects/fruit_detection" style="text-decoration: none; color: inherit;">
+    <a href="/edge-ai-25/projects/02-fruit_detection" style="text-decoration: none; color: inherit;">
     <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="250" style="border-radius: 6px;">
     </a>
-    <h3><a href="/edge-ai-25/projects/fruit_detection">Fruit Detection</a></h3>
+    <h3><a href="/edge-ai-25/projects/02-fruit_detection">Fruit Detection</a></h3>
     <p>An AI-powered system that identifies fruits from live camera feeds.</p>
-    <a href="/edge-ai-25/projects/fruit_detection">Read more →</a>
+    <a href="/edge-ai-25/projects/02-fruit_detection">Read more →</a>
     
   </div>
 
 </div>
 
 
-1. [Portable Sign-language Translater](projects/sign_lang.md)
+1. [Portable Sign-language Translater](projects/01-sign_lang.md)
 
    <img src="../assets/img/projects25/01-sign-language.png" alt="Sign Inference" style="width:200">
 
-2. [Fruit Detection](projects/fruit_detection.md)
+2. [Fruit Detection](projects/02-fruit_detection.md)
 
    <img src="../assets/img/projects25/02-fruits.png" alt="Fruit Detection" width="100">
     
-3. [Vehicle Monitoring](projects/vehicle_monitoring.md)
+3. [Vehicle Monitoring](projects/03-vehicle_monitoring.md)
 
   ![Vehicle Monitoring](assets/img/projects25/03-vehicle-monitoring.png)
 
