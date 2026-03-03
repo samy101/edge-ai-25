@@ -6,6 +6,13 @@ subtitle: Indian Institute of Science | January 2025
 
 # Portable AI Sign-Language Translator
 
+<p align="center">
+  <img src="../assets/img/projects25/01-sign-language.png" 
+       alt="Portable Sign Language Translator" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 ## Introduction
 
 Millions of deaf and hard-of-hearing individuals face daily communication barriers in environments like hospitals, banks, government offices, and public spaces. These challenges arise primarily because most people do not understand sign language, limiting effective and inclusive communication. 
@@ -147,3 +154,4 @@ To enhance the current system into a robust, self-sufficient product, several ke
 3. OpenMV IDE and Machine Vision Library. [Available at this link](https://openmv.io/pages/download)
 
 4. Arduino Nicla Vision Documentation. [Available at this link](https://docs.arduino.cc/hardware/nicla-vision)
+
