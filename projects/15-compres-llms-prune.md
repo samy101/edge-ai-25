@@ -10,6 +10,13 @@ subtitle: Indian Institute of Science | January 2025
 
 Large Language Models (LLMs) have achieved remarkable success across a variety of NLP tasks such as question answering, summarization, and text generation. However, their deployment remains a challenge due to high computational and memory demands, especially in resource-constrained environments.
 
+<p align="center">
+  <img src="../assets/img/projects25/15-quantize-vs-model.png" 
+       alt="LLM Compression for Edge" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 To address this, our project focuses on three key objectives:
 
 - Benchmarking the performance of multiple LLMs across standard QA datasets—SQuAD (Rajpurkar et al. [2016]), TriviaQA (Joshi et al. [2017]), and RepliQA (Monteiro et al. [2024]) under various quantization schemes (e.g., float32, int8, int4), measuring accuracy, inference time, and model size.
@@ -151,3 +158,4 @@ This highlights the potential of our method for efficient deployment of LLMs. Ad
 - Kamil Adamczewski, Yawei Li, and Luc van Gool. *Shapley pruning for neural network compression.* arXiv:2407.15875, 2024.  
 - Marwa El Halabi et al. *Data-efficient structured pruning via submodular optimization.* NeurIPS, 2022.  
 - Amir Gholami et al. *A survey of quantization methods for efficient neural network inference.* arXiv:2103.13630, 2021.  
+
