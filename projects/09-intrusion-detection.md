@@ -18,7 +18,12 @@ Modern vehicles and industrial controllers rely on the CAN bus for real–time c
 - **Existing Defenses:** Hardware firewalls add cost; cloud analytics add latency.  
 - **Edge AI Advantage:** Local inference on microcontrollers ensures low latency and resilience.
 
----
+<p align="center">
+  <img src="../assets/img/projects25/09-intrusion-detection.png" 
+       alt="CAN Bus Intrusion Detection" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
 
 ### Methodology
 
@@ -157,4 +162,5 @@ Live console example:
 - **Code repository:** https://github.com/Manoj-prog-use/EdgeAI_CANIDS/tree/main  
 - **Arduino sketch:** `attack_modes.ino`  
 - **Pico firmware:** `main.c`, `model.c`, `CMakeLists.txt`  
+
 - **Training notebook:** `CAN_IDS_DF.ipynb`
