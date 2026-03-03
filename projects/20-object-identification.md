@@ -12,7 +12,14 @@ This report presents a project that explores a novel approach to feature estimat
 
 When integrated with a camera, the system achieves enhanced performance, even in **low-light environments** [2]. By employing **sensor fusion**, the system combines ultrasound and vision-based sensing to enable accurate object classification while optimizing computational and power efficiency. 
 
-The hardware setup includes edge devices such as the **Arduino Nano BLE Sense** and **Nicla Vision**, complemented by **machine learning-based techniques** [3]. This hybrid approach is specifically designed for edge devices, addressing the significant **resource constraints** inherent to such platforms [4].
+<p align="center">
+  <img src="../assets/img/projects25/20-object-identification.png" 
+       alt="Object Identification System" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
+The hardware setup includes edge devices such as the **Arduino Nano BLE Sense** and **Nicla Vision**, complemented by **machine learning-based techniques**. This hybrid approach is specifically designed for edge devices, addressing the significant **resource constraints** inherent to such platforms.
 
 
 **Radar/Sonar-Based Feature Extraction**
@@ -151,3 +158,4 @@ This project demonstrates a successful **hybrid edge AI system** combining **ult
 3. Edge Impulse documentation or relevant literature discussing edge-based ML deployment.  
 4. *Edge Intelligence: Architectures, Challenges, and Applications*  
    - Dianlei Xu, Tong Li, Yong Li, Xiang Su, Sasu Tarkoma, Tao Jiang, Jon Crowcroft, Pan Hui
+
