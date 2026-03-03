@@ -15,6 +15,13 @@ The primary objective of this project is to develop an intelligent system capabl
 
 This addresses the shortcomings of traditional SoC estimation methods (e.g., Coulomb counting), which suffer from drift and inaccuracies.
 
+<p align="center">
+  <img src="../assets/img/projects25/14-battery-charge-estimation.png" 
+       alt="Battery SoC Estimation" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 ### Data Acquisition Hardware
 
 A custom hardware circuit was built using the **Arduino Nano 33 BLE**, connected to sensors measuring:
@@ -247,5 +254,6 @@ It serves as a **prototype for smart Battery Management Systems (BMS)** and can 
 - Predict **battery cycle life**
 - Monitor **health degradation**
 - Improve safety in **IoT and EV applications**
+
 
 ---
