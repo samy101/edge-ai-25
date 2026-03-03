@@ -16,6 +16,13 @@ The goal of this project is to create an AI-based system that can identify irreg
 - Cracks
 - Decolourisation
 
+<p align="center">
+  <img src="../assets/img/projects25/04-anomly-pv-panels.png" 
+       alt="PV Panel Anomaly Detection" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 ### Hardware and Software Used
 - PV Panels
 - Nicla Vision
@@ -82,4 +89,5 @@ The goal of this project is to create an AI-based system that can identify irreg
 
 - Accuracy: TinyCnn - 93% (on validation set) : MobileNet V2 0.35 - ~85% through Edge Impulse
 - Deployment model size: MobileNet V2 0.35 - ~40 KB (via Edge Impulse) : ResNet8 - ~50kB (quantized tflite model)
+
 - Inference time: ~100 ms on Nicla Vision
