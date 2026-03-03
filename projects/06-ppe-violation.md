@@ -10,6 +10,13 @@ subtitle: Indian Institute of Science | January 2025
 
 This project develops a real-time Personal Protective Equipment (PPE) violation detection system for industrial environments, utilizing a Raspberry Pi 4 and an ESP32 microcontroller, integrated with a servo-actuated Miniature Circuit Breaker (MCB) shutdown mechanism. The system processes live video feed from a 5MP Pi Camera to detect PPE non-compliance (e.g., missing hardhats, masks, or safety vests), sends alerts via serial communication to the ESP32, and triggers a servo motor to shut off power via an MCB, ensuring immediate safety enforcement. The prototype uses a YOLOv8 model, demonstrating edge AI, computer vision, and physical actuation for enhanced factory safety. 
 
+<p align="center">
+  <img src="../assets/img/projects25/06-ppe-mcb.png" 
+       alt="PPE Violation Detection" 
+       width="500"
+       style="border-radius: 10px;">
+</p>
+
 ### Methodology
 
 #### 1. Hardware Required and Specifications
@@ -145,3 +152,4 @@ The system, implemented in `Fullcode 2.txt`, runs on the Raspberry Pi using the 
 - Construction Site Safety Image Dataset, Kaggle, 2023.  
 - YOLOv8 Documentation, Ultralytics, 2025.  
 - Raspberry Pi 4 Documentation, 2025.  
+
